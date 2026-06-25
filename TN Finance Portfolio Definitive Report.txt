@@ -1,0 +1,541 @@
+How Tamil Nadu Financed the Dravidian Model
+Finance Portfolio — Definitive Performance & Reform Report
+(2021–2026)
+Portfolio: Finance, Environment & Climate Change (Hon’ble Minister Thiru. Thangam
+Thennarasu) Review period: May 2021 to FY 2025-26 (five-year tenure)
+Prepared from: the Finance-portfolio departmental note (Treasury & Accounts, Audit, Small
+Savings, TNIFMC/TNIDB, Archaeology, Environment), the RBI State Finances: A Study of
+Budgets, an independent GSDP-performance column, and — for the macroeconomic
+chapters added in this edition — official sources verified externally (Economic Survey of
+Tamil Nadu 2025-26, Tamil Nadu Budget documents, NITI Aayog, PRS Legislative
+Research); the DMK IT Wing booklet Thalainimirntha Tamil Nadu (2021–2026) as a “what
+was delivered” companion; and the Industries Department’s 2026 investment report card.
+Framing. Most achievement reports describe what a government delivered. This report
+explains how it was financed and administered: the fiscal self-reliance, digital state
+capacity, audit reform and infrastructure-finance architecture that allowed Tamil Nadu to
+expand welfare and attract investment at the same time. Where figures are government
+projections, contested, or attributable to periods outside the tenure, this is flagged —
+credibility before advocacy.
+
+A. Top 10 Finance-Portfolio Achievements (One-Page
+Summary)
+1. ₹31.19 lakh crore GSDP in 2024-25, growing 11.19% in real terms — the fastest
+among Indian states and the first double-digit growth in 14 years.
+2. Own-revenue self-reliance of 75.3% (2025-26 BE) versus an all-states average of
+58.2% — among the highest of large states.
+3. India’s No. 1 electronics-exporting state — a record $14.65 billion in 2024-25, the
+first state to reach that scale.
+4. Merchandise exports nearly doubled from $26.15 billion (2020-21) to $52.07 billion
+(2024-25); No. 1 in electronics, textiles and leather.
+
+5. Per-capita income of ₹3.62 lakh (2024-25) — about 1.77× the national average.
+6. ₹12.16 lakh crore in investment MoUs since 2021 (1,176 MoUs; ~36.4 lakh projected
+jobs; ~80% under execution) — including ₹6.64 lakh crore committed at the Global
+Investors Meet 2024.
+7. IFHRMS 2.0 (“Kaniniyam”) statewide — a single digital backbone for 9.2 lakh
+employees and 7.4 lakh pensioners, integrated with RBI e-Kuber.
+8. ₹1,363 crore mobilised through TNIFMC across a Shelter Fund, an Emerging-Sector
+Seed Fund and a Green Climate Fund.
+9. Fiscal discipline restored — fiscal deficit back to ~3% of GSDP and debt-to-GSDP at
+~26%, within Finance Commission limits.
+10. Audit modernisation (CAMS/APMS) plus a layered social-security package (medical
+insurance + family-security fund + bank MoU) for the government workforce.
+
+B. Executive Summary
+Between 2021 and 2026 the Finance portfolio pursued four reinforcing goals — fiscal selfreliance, digital administration, social security, and climate-aligned infrastructure
+finance — which together underwrote a simultaneous expansion of welfare and investment.
+The macroeconomic outcome was strong: Tamil Nadu retained its place as India’s secondlargest state economy, grew fastest among states in 2024-25, doubled merchandise
+exports, and became the country’s leading electronics exporter. The fiscal outcome was a
+credible recovery from the pandemic shock — deficits brought back toward statutory norms
+while own-revenue mobilisation rose to ~75% of revenue receipts.
+The institutional story beneath these numbers is the report’s distinctive contribution: a
+treasury and HR system (IFHRMS 2.0) capable of disbursing salaries, pensions and scheme
+benefits at scale; a unified audit apparatus (CAMS/APMS); catalytic fund vehicles
+(TNIFMC) that supplement budget spending; and a climate and heritage agenda treated as
+economic policy rather than peripheral activity.
+
+C. Economic Transformation (2021–2026)
+This chapter responds to the most-asked question — what did the economy actually do —
+using externally verified official data.
+
+C.1 Growth and Size
+GSDP (current prices): approximately ₹17.9 lakh crore (2020-21) to ₹31.19 lakh
+crore (2024-25); the Budget projects ~₹36.57 lakh crore (2025-26 BE). (The 202425 figure and growth rate are from the Economic Survey of Tamil Nadu 2025-26; the
+2020-21 starting figure is per the source note and is broadly consistent with published
+series.)
+Real GSDP growth of 11.19% in 2024-25 — the highest among Indian states and the
+state’s first double-digit growth in 14 years; nominal growth ~16%.
+Tamil Nadu remains India’s second-largest state economy (after Maharashtra),
+contributing roughly 9% of national GDP with ~4% of land area.
+The State has set a trillion-dollar-economy aspiration (variously cited as 2030 or
+2032-33).
+
+C.2 Incomes and Living Standards
+Per-capita income reached ₹3.62 lakh in 2024-25, about 1.77× the national
+average (~₹2.05 lakh), up from ₹3.13 lakh in 2023-24.
+32 of 38 districts recorded per-capita incomes above the all-India average.
+Multidimensional poverty (National MPI) fell from 4.76% (2015-16) to 2.20% (201921), with more recent estimates near ~1.4%. Caveat: the bulk of this decline occurred in
+2015-16 to 2019-21, largely predating the 2021-26 tenure; it reflects a long-run
+trajectory rather than a single-term outcome.
+
+C.3 Exports and Manufacturing — the Growth Engine
+Merchandise exports nearly doubled from $26.15 billion (2020-21) to $52.07 billion
+(2024-25).
+Tamil Nadu ranks first nationally in electronics, textiles and leather exports, and
+second in engineering goods.
+Electronics exports surged from $1.66 billion (2021-22) to a record $14.65 billion
+(2024-25) — making Tamil Nadu India’s top electronics-exporting state, and the first
+to launch a State Electronics Components Manufacturing Scheme.
+Manufacturing grew 14.74% and services 11.3% in 2024-25; the secondary sector
+contributes ~33% of GSDP.
+FDI inflows rose to $3.68 billion (2024-25) from ~$2.17 billion (2022-23), defying the
+national slowdown.
+
+C.4 Export Readiness — a Precise Statement
+Tamil Nadu was ranked No. 1 in NITI Aayog’s Export Preparedness Index (EPI) 2022. In
+the most recent EPI 2024 (released January 2026), Maharashtra overtook it and Tamil
+Nadu ranked second among large states (with Gujarat third). The State therefore remains a
+consistent top-tier exporter, while no longer holding the No. 1 EPI slot — an honest framing
+that strengthens, rather than weakens, the report’s credibility.
+Context (independent view): An analytical column (Mudar Patherya) estimated Tamil
+Nadu’s nominal-dollar GSDP rising from ~$241 billion (2020-21) to ~$369 billion (202425) — about $128 billion of wealth creation, ~$32 billion a year — characterised as
+outperformance. The author cautions these are indicative nominal-dollar figures
+influenced by inherited momentum and external factors; treat as directional.
+
+D. Macro-Fiscal Self-Reliance & Comparative Benchmark
+D.1 Own-Revenue Share (RBI State Finances — Table A.2)
+Year
+
+Tamil Nadu
+
+Karnataka
+
+Maharashtra
+
+All States
+
+2020-21
+
+66.97
+
+66.97
+
+66.88
+
+52.10
+
+2022-23
+
+68.63
+
+68.80
+
+72.54
+
+55.93
+
+2023-24
+
+73.01
+
+75.69
+
+75.06
+
+57.82
+
+2024-25 (RE)
+
+75.15
+
+75.59
+
+57.94
+
+56.88
+
+2025-26 (BE)
+
+75.31
+
+76.79
+
+74.98
+
+58.17
+
+Benchmark takeaway: Tamil Nadu funds about three-quarters of its revenue from its own
+sources, roughly 17 percentage points above the all-states average. High self-reliance
+means greater budget flexibility, more sustainable welfare, and reduced exposure to the
+timing and adequacy of central transfers.
+
+D.2 Why This Matters
+Self-reliance is the fiscal precondition for the “Dravidian Model”: large recurring welfare
+commitments (free bus travel, women’s income support, breakfast scheme) are only
+sustainable if the State controls a dependable, growing own-revenue base. The treasury,
+GST and e-receipt reforms (Chapters F and J) are precisely what protect that base.
+
+E. Creditworthiness & Fiscal Discipline
+Indian states do not carry standalone international credit ratings (they borrow within the
+sovereign framework via market State Development Loans). “Creditworthiness” here
+therefore means deficit trajectory, debt sustainability within statutory limits, and reliable
+market access.
+Indicator
+
+Position
+
+Fiscal deficit (%
+
+~4.99% (2020-21 RE, COVID) → 3.0% target (2025-26 BE);
+
+GSDP)
+
+~3.48% in RE 2025-26
+
+Revenue deficit (%
+GSDP)
+
+3.28% (2020-21) → ~1.2% (2022-23) → ~1.6% (2024-25)
+
+Debt-to-GSDP
+
+~26.07% (2025-26 BE) — within Finance Commission limits
+
+Outstanding debt
+
+₹9.29 lakh crore (BE 2025-26) → ₹9.52 lakh crore (RE)
+
+Gross market
+borrowing
+
+~₹1.62 lakh crore (2025-26)
+
+Reading for policy makers:
+The deficit recovery from the pandemic peak back toward the 3% statutory norm signals
+fiscal credibility to lenders and the Finance Commission.
+Debt has risen in absolute terms (a fair-minded report must say so), but the debt-toGSDP ratio has stayed within limits, because GSDP growth has kept pace —
+sustainability is about the ratio, not the rupee figure.
+Continued reliable access to SDL markets at competitive spreads is the practical proxy
+for a good “rating.”
+
+F. GST & Revenue Mobilisation — the Engine of the 75% Ratio
+The high own-revenue ratio (Chapter D) is the outcome; this chapter is the cause.
+State Own Tax Revenue is anchored by State GST and Commercial Taxes, supported
+by stamps & registration, state excise, vehicle tax and electricity duties.
+Modernisation levers documented in the departmental note: e-Challan/e-Receipt
+24×7 online payment of dues; RBI NEFT/RTGS for instant receipt credit (since April
+
+2023); integration of Commercial Taxes and Prohibition & Excise into the receipts
+platform; four aggregator banks sweeping revenue into the State’s RBI account.
+Why it is remarkable: sustaining a ~75% own-revenue share while expanding welfare
+requires both buoyant tax collections and leak-proof, real-time receipt systems. The
+digital receipt architecture is what converts economic growth (Chapter C) into usable
+fiscal space.
+Data gap to close before external use: the departmental note describes integration but
+not collection outcomes. A short annexure with SOTR and SGST collection growth
+(2020-21 to 2025-26) would make this chapter authoritative.
+
+G. Finance as the Enabler of Welfare
+This is the connective tissue the original note left implicit. Higher own-revenue + digital
+treasury systems = the ability to deliver welfare at scale.
+Flagship scheme
+
+Enabled by
+
+Kalaignar Magalir Urimai Thogai (women’s
+
+Direct-benefit transfer rails via IFHRMS 2.0 /
+
+income support)
+
+RBI e-Kuber
+
+Pudhumai Penn & Tamil Pudhalvan
+
+Beneficiary masters and large-batch
+
+(education incentives)
+
+disbursal in IFHRMS
+
+CM Breakfast Scheme
+
+Makkalai Thedi Maruthuvam
+
+Free bus travel (Vidiyal Payanam)
+
+Reliable recurring fund release through
+treasury operations
+Fiscal space created by own-revenue selfreliance
+Budgetable, audited subsidy flows; transport
+viability fund
+
+Through these rails the State already administers 14 lakh Old-Age Pension and 8 lakh
+Muthulakshmi beneficiaries, alongside salaries for 9.2 lakh employees and 7.4 lakh
+pensioners — demonstrating that welfare scale-up did not collapse under administrative
+complexity because the systems were built first.
+
+H. The State-Capacity Revolution (Digital Governance)
+
+The single most consequential governance achievement is the shift from fragmented,
+paper-based processes to a unified digital financial state.
+Before (pre-reform)
+
+After (2021–2026)
+
+Manual, paper treasury files
+
+IFHRMS 2.0 (“Kaniniyam”) end-to-end
+
+Cash/cheque revenue
+handling
+
+e-Challan / e-Receipt (24×7 online)
+
+Delayed receipt credit
+
+RBI NEFT/RTGS instant credit
+
+Manual, lagging audit
+
+CAMS (audit) + APMS (objection tracking)
+
+Siloed scheme monitoring
+
+TNPFMS (99 schemes, 40 departments)
+
+In-person service
+
+Kaniniyam mobile app (leave, advances, pension, lifecertificate)
+
+Net effect: salary, pension, scheme transfers, revenue receipts and treasury operations
+now run on one integrated, RBI-linked backbone. Politically invisible; administratively
+transformative — this is the infrastructure that makes both welfare delivery and revenue
+capture dependable.
+(Full operational detail of each system is in Chapters J–K.)
+
+I. Climate Finance Leadership
+Tamil Nadu is among the few Indian states attempting climate governance, climate
+finance and green industrialisation as a single coordinated strategy — which is why this
+deserves flagship status rather than a regulatory footnote.
+TN Green Climate Fund (TNGCF): SEBI-registered (03.08.2023); first phase ₹110
+crore across three investments; target 2.5 million MT carbon reduction, aligned to the
+State’s net-zero-by-2070 pathway.
+TN Emerging Sector Seed Fund (TNESSF): 13 startups, ₹30.1 crore committed;
+targeted impact includes 1,500+ EVs, carbon/material-use reduction and ~60,000 jobs.
+District Climate Change Missions in every district (Collector as Project Director, DFO
+as Climate Officer); Green Local Bodies (297 selected); Green Fellows running 1,284+
+awareness campaigns reaching ~36 lakh people.
+
+Meendum Manjappai: 15 lakh+ cloth bags, 200+ dispensing machines, 2.99 lakh
+awareness events, films broadcast to 60,000 schools.
+Pollution control with measurable results (TNPCB): NCAP-period PM10 reductions of
+Thoothukudi −45%, Trichy −18%, Madurai −18%, Chennai −12% (2021–2025); 55
+continuous air-quality and 8 real-time water-quality stations; NABL-accredited labs.
+Why this is unusual: climate is treated as an economic portfolio — fund vehicles,
+industrial incentives and infrastructure pipelines — not merely compliance. It is
+administratively co-located with Finance, reinforcing the link to long-term infrastructure
+financing.
+
+J. Treasury & Accounts Department (Operational Detail)
+J.1 Mandate and Scale
+Reorganised as a separate department in 1962 under Finance; operates 6 zonal JointDirector offices, 6 Pay & Accounts Offices, 3 Sub-Pay & Accounts Offices, 38 District
+Treasuries, 1 Pension Pay Office and 243 Sub-Treasuries. It salaries 9.2 lakh+ employees,
+pays 7.4 lakh+ pensioners, releases scheme funds, sends monthly accounts to the AG, and
+administers stamps and medical insurance.
+
+J.2 IFHRMS 2.0 — Features
+Statewide (piloted in Karur, Jan 2020); salaries/bills via RBI e-Kuber; e-Challan/e-Receipt
+(24×7), four aggregator banks; NEFT/RTGS since 24.04.2023; Kaniniyam app
+(27.02.2024). Modules: OPPAS (e-pension/gratuity/GPF settlement), DAAS (paperless eVouchers; AG exemption from 01.02.2025), automatic income-tax computation, CPS final
+settlement, NPS-to-NSDL, and duplicate-beneficiary detection (CMUPT, OAP, SSN-IG).
+Ongoing integration: Transport, Registration, TANGEDCO (phased from 01.01.2025), BSNL,
+and a Global Beneficiary Master with large-batch (up to 10 lakh) disbursal.
+
+J.3 Workforce Social Security
+Pensioners’ Family Security Fund: ₹50,000 lump-sum on death; ₹121 crore advanced
+to clear a COVID-era backlog — 25,000 claims/families settled. (A source sidebar cites
+₹125 crore — see Caveats.)
+Employees’ Medical Insurance (2021): ₹5 lakh cover (special-disease ceiling up to
+₹20 lakh), ₹300/month, 203 procedures, 1,497 hospitals + 16 radiation centres;
+extended to 30.06.2026. Outcome: 3,33,675 beneficiaries, ₹1,706.19 crore.
+
+Pensioners’ Medical Insurance (2022, to 30.10.2025): 1,490 hospitals. Outcome:
+3,37,338 beneficiaries, ₹1,447.91 crore.
+State Government Employee Account (bank MoU, 19.05.2025): 7 banks; ₹1 crore
+accident cover; up to ₹10 lakh education / ₹5–10 lakh marriage for deceased employees’
+children; ₹10 lakh life cover for natural death. ₹20.65 crore paid to 46 families to date.
+
+J.4 Pension Simplification, Buildings, Codification
+Year-round pensioner interview (since 01.07.2023); automatic service-to-family-pension
+conversion.
+New District/Sub-Treasury buildings inaugurated (25.10.2021, 26.08.2022); integrated
+complex named Professor K. Anbazhagan Maaligai (19.12.2021).
+TN Treasury Code and Financial Code Vols. I & II rewrite with ICAI-ARF (sanction
+₹57.82 lakh).
+TNPFMS: end-to-end revenue/expenditure monitoring — 99 schemes across 40
+departments.
+
+K. Audit Reforms
+Unified Chief Auditor office created to bring Local Fund, Co-operative, Milk Cooperative, State Government and HR&CE audit under Finance.
+CAMS live 15.04.2025 (audit lifecycle digitised; Q1–Q2 of 2025-26 completed on it);
+APMS live 17.11.2025 (objection tracking); IDEA analytics; 100% e-Office in State
+Government Audit.
+Objections cleared: 81,354 non-monetary + 2,049 monetary paras (₹2,883.22 lakh);
+audit fees of ₹528.41 crore collected over four years.
+Recruitment: 918 Junior Co-operative Auditors + 8 Assistant Directors (2024).
+Milk co-operatives: a record 53,280 primary societies audited; performance audit
+introduced (2023) for charitable institutions; Template Audit for ~18,000 small bodies.
+
+L. Infrastructure Financing & the Investment Linkage
+L.1 TNIFMC — Catalytic Funds (≈₹1,363 crore mobilised)
+
+Approved
+
+Fund
+
+Mobilised
+
+Shelter Fund (TNSF)
+
+₹658 cr
+
+—
+
+₹105 cr
+
+₹200 cr
+
+₹100 cr
+
+₹300 cr
+
+Emerging Sector Seed
+Fund (TNESSF)
+Green Climate Fund
+(TNGCF)
+
+more
+
+Focus
+Affordable housing; workingwomen & elderly hostels
+Deep-tech, biotech, agri-tech,
+med-devices
+Decarbonisation, e-mobility,
+climate infra
+
+Thozhi working-women’s hostels (TNSF): 17 hostels / 1,800 beds (Phase 1, 2023); 27
+locations / 2,600 beds upcoming.
+
+L.2 TNIDB, Investment Attraction and the GIM Linkage
+The strongest political-economy argument is that Finance and Industry worked together
+— fiscal stability underwriting investor confidence.
+Cumulative tenure performance (2021–2026): Tamil Nadu signed 1,176+ investment
+MoUs worth ₹12.16 lakh crore (~$136 billion), with an employment potential of ~36.4
+lakh jobs (direct + indirect); the Industries Department reports ~80% of MoUs under
+execution (a later “Conversion Conclave 2026” update cited ₹12.37 lakh crore / 1,179
+MoUs / 36.52 lakh jobs and a 73.5% conversion rate). These are committed/underexecution figures, not fully realised investment — the execution and conversion rates
+are the metrics to track.
+Global Investors Meet 2024 (7–8 January 2024): ₹6.64 lakh crore committed,
+expected to create 26.9 lakh jobs (14.55 lakh direct + 12.36 lakh indirect) — the single
+largest mobilisation event within the cumulative total above.
+TNIDB runs a large PPP/HAM/DBFOT pipeline — water (desalination, smart meters),
+energy (battery storage, pumped hydro, rooftop solar), mobility (electric buses, ECR
+elevated corridor) and industrial parks.
+The State frames itself as “India’s manufacturing capital”, targeting a $1 trillion
+economy by 2030.
+
+L.3 Externally Aided Projects
+Chennai City Partnership: Sustainable Urban Services Program — US$701 million total,
+with World Bank and AIIB contributing US$150 million each; 19 disbursement-linked
+indicators; TNIDB as monitoring agency.
+
+M. Heritage as Economic Policy
+A distinctively Tamil Nadu feature — archaeology framed as tourism, identity and local
+livelihood, not merely culture.
+₹16.93 crore conservation (Thanjavur, Danish Fort/Tharangambadi, Madurai Thirumalai
+Nayakkar Palace); 2025-26 allocation ₹25 crore.
+Keeladi world-class museum (₹3.8 crore, 34 posts); Porunai Museum, Tirunelveli
+(₹58.69 crore).
+Scientific milestones: Mayiladumparai iron artefacts dated to ~4,200 years (c. 2172
+BCE), advancing India’s Iron-Age chronology; Gangaikonda Cholapuram excavations
+revealing Chola maritime trade.
+20,000+ inscriptions documented; four new district museums (Tirunelveli,
+Ramanathapuram, Tenkasi, Kanyakumari); MoUs with foreign universities; student
+stipend raised ₹4,000 → ₹5,000.
+Economic logic: sites like Keeladi generate local employment and domestic/foreign
+tourist footfall, converting heritage into regional economic activity.
+
+N. Synthesis — How Tamil Nadu Financed the Dravidian Model
+If the welfare schemes are the visible output, this report documents the institutional
+architecture beneath them. Six pillars operated simultaneously:
+1. Fiscal self-reliance (~75% own revenue) created sustainable budget space.
+2. Digital state capacity (IFHRMS 2.0, e-Challan, CAMS/APMS, TNPFMS) made delivery
+and revenue capture dependable.
+3. Welfare at scale rode on those rails (9.2 lakh employees, 7.4 lakh pensioners, 14 lakh +
+8 lakh scheme beneficiaries).
+4. Infrastructure finance (TNIFMC funds + PPP pipeline + GIM 2024) supplemented
+budget spending with instruments and private capital.
+5. Climate-aligned planning tied green funds and industrialisation to a 2070 net-zero
+pathway.
+6. Economic transformation followed — fastest-growing state, No. 1 electronics exporter,
+doubled merchandise exports, rising per-capita income.
+The complete statement: Tamil Nadu’s 2021–2026 model combined large-scale welfare
+
+expansion with fiscal self-reliance, digital governance, audit and treasury reform,
+infrastructure finance, climate planning, and export-oriented industrial growth — a more
+complete explanation of the “Dravidian Model” than any single scheme or statistic conveys.
+It is, in effect, a case study in state capacity and economic governance.
+
+O. Observations & Recommendations for Policy Makers
+1. Publish the revenue outcomes. Add an annexure with SGST/SOTR and commercial-tax
+collection growth (2020-21→2025-26) to make the 75% own-revenue claim selfevidently authoritative (Chapter F gap).
+2. Lock in self-reliance structurally, not cyclically — complete
+Transport/Registration/TANGEDCO/GST data integration and publish a quarterly receipts
+dashboard.
+3. Manage the debt narrative proactively. State that absolute debt has risen but the
+debt-to-GSDP ratio remains within limits; pair this with the deficit-reduction path to preempt criticism.
+4. Pre-fund social-security schemes. The Family Security Fund needed a ₹121 crore
+bailout; an actuarial corpus rule would prevent recurrence (apply equally to the medicalinsurance corpus).
+5. Report realised PPP/GIM investment, not just commitments — convert the ₹6.64 lakh
+crore GIM headline into a tracked “committed vs. grounded vs. operational” scoreboard.
+6. Scale the climate funds. TNGCF/TNESSF are early-stage relative to the Shelter Fund;
+clear deal pipelines and measured carbon outcomes would build them toward the 2070
+target.
+7. Track CAMS/APMS outcomes (closure rates, recoveries, time-to-resolution) so
+digitisation translates into demonstrable accountability.
+8. Be precise on rankings (e.g., EPI No. 1 in 2022, No. 2 in 2024) — accuracy protects the
+report’s authority with legislators and rating-sensitive audiences.
+
+P. Data Caveats & Methodological Notes
+Out-of-order source. The departmental note was a jumbled extraction; it has been resequenced and de-duplicated by department.
+Verified externally (this edition): GSDP, growth rate, per-capita income, exports,
+
+electronics-export rank, FDI, GIM 2024, fiscal/debt ratios and own-revenue share were
+checked against the Economic Survey of Tamil Nadu 2025-26, Tamil Nadu Budget
+documents, RBI, NITI Aayog and PRS Legislative Research.
+Attribution discipline:
+Poverty decline (4.76%→2.20%) occurred mainly in 2015-16 to 2019-21, largely
+before the tenure — do not over-attribute.
+Export Preparedness Index: No. 1 in 2022; No. 2 (behind Maharashtra) in EPI
+2024, released January 2026.
+Patherya GSDP-wealth figures are an independent nominal-dollar estimate with
+the author’s own caveats — directional only.
+Investment figures (₹12.16 lakh crore; GIM 2024 ₹6.64 lakh crore) are
+committed MoU values, externally corroborated via the Industries Department; they
+are not fully realised investment — track execution (~80%) and conversion (~73.5%)
+rates.
+No standalone credit rating exists for Indian states; “creditworthiness” is
+expressed via deficits, debt-to-GSDP and market-borrowing access.
+Source inconsistencies in the departmental note: Family Security Fund advance cited
+as ₹125 crore (sidebar) vs ₹121 crore (body); several treasury-building costs appear
+mis-transcribed (likely crore, not lakh) and dubious values were omitted; medicalinsurance cover read as ₹5/10/20 lakh; the TNIDB “2030 economy target” figure was
+corrupted in the extraction and is described qualitatively; hospital counts differ slightly
+(1,497 vs 1,490) between the employee and pensioner sections.
+Currency: figures are in Indian rupees (crore/lakh) unless a US-dollar figure is explicitly
+stated. Verify all headline numbers against original budget documents before external
+citation.
+
+Compiled for policy review. This edition expands the departmental note into an economicgovernance case study; macroeconomic claims are externally verified and contested or outof-period figures are flagged in Section P.
+
+

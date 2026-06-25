@@ -1,0 +1,747 @@
+Provisioning, Connection, and the Unfinished Loop
+A Thesis Report on Recursive Ecosystem Formation in Tamil Nadu’s StateLed Startup Programs
+Companion analysis to the essay series · Evidence current to mid-2026 · All load-bearing claims graded
+Confirmed or Emerging, with causal claims separately flagged, and referenced with source links.
+
+Abstract
+A startup ecosystem is not a stockpile of inputs but a set of self-reinforcing feedback loops in which
+outputs re-enter as inputs — founders producing employees who become founders, exits producing capital
+that funds new ventures. This thesis asks whether Tamil Nadu’s state-led startup programmes are
+producing such recursion, or merely provisioning and attempting to connect components. Using a
+Component–Connection–Closure framework and a primary-source verification protocol, it examines nine
+initiatives through seven structured case studies.
+It finds that provisioning is comprehensive, connection is deliberately engineered, and recursion is
+genuinely evidenced in several places. But two findings qualify any celebratory reading. First, on
+causation: the two fully closed loops (the Zoho/Freshworks alumni network and IIT Madras Research Park)
+were inherited rather than state-created, and the flagship instrument, TANSEED, cannot be shown to cause
+the outcomes it is associated with. Because TANSEED selects already-promising startups, its association
+with roughly ₹535 crore of downstream private capital is as consistent with skilled selection as with
+catalysis — and the celebrated cases are precisely those where selection dominates. The state’s evidenced
+role is therefore credentialer, convener, and selector, not originator. Second, on distribution: every
+measured loop closes through follow-on funding, which dilutes founders and channels equity to external
+investors. Recursion and ownership-broadening are distinct axes, and the one fully closed loop is narrow
+and elite (urban, English-educated SaaS), while the instruments designed to broaden ownership — the
+SC/ST fund, the women-led track, rural and tier-2 programmes — are exactly the loops that have not
+closed.
+The thesis concludes that ecosystem formation in Tamil Nadu is real and accelerating, but it is neither
+clearly state-caused nor, as yet, ownership-widening. Recursion is necessary but not sufficient; closure
+among the already-advantaged is not the same as broad-based ownership.
+
+Chapter 1 — Introduction
+1.1 Background
+Over the past decade Tamil Nadu has moved from a predominantly services-and-manufacturing economy
+toward an explicit innovation agenda, institutionalised through the Tamil Nadu Startup and Innovation
+
+Mission (StartupTN/TANSIM, established 2018) and successive startup policies [31], [30]. The state has
+registered thousands of startups, issued tens of thousands of “Smart Cards,” and stood up a portfolio of
+capital, talent, market-access, and deep-tech instruments [7].
+
+1.2 Problem Statement
+Policy evaluations of startup ecosystems frequently count components — grants disbursed, startups
+registered, events held — and infer health from their volume. But components are necessary, not sufficient.
+The entrepreneurial-ecosystem literature treats ecosystems as systems defined by feedback, not inventory
+[1]. This thesis addresses two gaps that volume metrics conceal: the gap between provisioning activity and
+recursive self-sustenance, and — once recursion is found — the gap between correlation and causation,
+and between ecosystem formation and ownership distribution.
+
+1.3 Research Questions
+RQ1. Which components has Tamil Nadu provisioned, and across how much of the startup stack?
+RQ2. What deliberate mechanisms connect these components?
+RQ3. For which initiatives is recursion (loop closure) evidenced, and for which is it only attempted?
+RQ4. What distinguishes loops that have closed from those that have not?
+RQ5. Is Tamil Nadu’s startup ecosystem becoming self-sustaining, or does it remain state-dependent?
+RQ6. Where recursion is evidenced, is there evidence the state caused it — or selected startups that
+would likely have succeeded regardless?
+RQ7. Does loop closure broaden ownership, or can a recursing ecosystem concentrate it?
+
+1.4 Objectives
+To classify initiatives along the provisioning–connection–closure chain; to verify load-bearing claims
+against primary sources while distinguishing relationship from causation; to identify the structural
+conditions associated with closure; to test whether closure broadens or concentrates ownership; and to
+propose falsifiable indicators by which future self-sustenance can be judged.
+
+1.5 Scope and Significance
+The study covers nine StartupTN-adjacent initiatives and two organic/institutional anchors, using public
+records to mid-2026. It is significant for its transferable method (Component–Connection–Closure, with
+explicit causal and distributional tests) and for framing its conclusions as testable predictions rather than
+advocacy.
+
+Chapter 2 — Conceptual Framework and Literature
+2.1 Ecosystems as recursive systems
+An entrepreneurial ecosystem becomes self-sustaining when outputs feed back as inputs. The strongest
+form is the founder flywheel: a successful company trains employees, some found new companies, some
+
+succeed and then invest in or mentor the next generation. Indian venture literature documents this in the
+“mafia” pattern — clusters spun out of a single parent, with founders recirculating as angels and mentors
+[1], [2].
+
+2.2 The Component–Connection–Closure framework
+Three terms operationalise recursion:
+Component — a provisioned input (a grant, a hackathon, a research park).
+Connection — a deliberate mechanism linking components.
+Closure — evidence that a connection produces a feedback effect (a funded founder who later mentors
+or finances successors).
+The benchmark closed loop is: founder → employees → new founders → investors → new founders. For
+each initiative the analysis asks which turns of this loop are evidenced. A loop that demonstrates “grant →
+scale” but not “founder → investor → next founder” is partially closed.
+
+2.3 Two axes the framework must keep separate
+Recursion is necessary but not sufficient for a healthy ecosystem, and it is a different axis from
+ownership distribution. A loop can close vigorously while concentrating ownership, because the usual
+closure mechanism — follow-on funding — dilutes founders and transfers equity to external investors and
+eventual acquirers. This thesis therefore treats two questions as distinct:
+Recursion (formation): do outputs re-enter as inputs?
+Ownership (distribution): who ends up holding the equity and economic control the ecosystem
+creates — founders and local/community stakeholders, or external capital?
+“Ownership-broadening” here means widening the base of people and places that hold durable equity and
+control, not merely increasing the number of ventures or the volume of capital cycling through them.
+Conflating the two — treating a closing loop as evidence of widening ownership — is the central analytical
+hazard this thesis guards against.
+
+2.4 The causal-inference problem
+Programme funders select. A seed fund that backs already-promising ventures will show strong
+downstream outcomes whether or not it caused them — the classic selection-versus-treatment problem.
+Establishing causation requires a counterfactual (a comparison group, a discontinuity around the eligibility
+threshold, or at minimum a credible mechanism). Co-occurrence (“X received a grant and later raised
+capital”), even when asserted by the funder, is not a counterfactual. This thesis grades relationship and
+causation separately.
+
+2.5 Comparators
+Internally, the Zoho/Freshworks network and IIT Madras Research Park prove recursion is achievable in
+Tamil Nadu [2], [4]. Externally, Rajasthan’s iStart procurement model is a benchmark for a state-built
+market-access loop that has closed at scale [24].
+
+Chapter 3 — Methodology
+3.1 Research design
+A qualitative, multiple-case design. Initiatives are the units of analysis; each is examined on a fixed frame
+(context, provisioning, connection, recursion evidence, loop status, verification, assessment) to enable
+cross-case comparison.
+
+3.2 Data sources
+Official StartupTN communications; implementer materials (Villgro, Headstart); regulatory and corporate
+records; the full text of cited third-party reports (notably the Primus Partners procurement report); and
+named secondary reporting (Inc42, YourStory, Entrackr, Business Standard, The Statesman). All sources
+are listed with links in References.
+
+3.3 Evidence grading
+Confirmed — supported by a primary source or by multiple named secondary sources.
+Emerging — component and connection documented, but loop closure not yet evidenced.
+A separate causal grade applies to any claim that a programme produced an outcome: Established
+(counterfactual or strong independent mechanism), Asserted (claimed, often by the funder, without
+counterfactual), or Not tested.
+
+3.4 Verification protocol
+Three rules, adopted after errors in the research process:
+1. Verify the connection, not just the entity. A real company plus a real funding event does not establish
+that the funding was caused by a programme; each causal link was checked against a source asserting
+it directly.
+2. Absence of evidence is not evidence of absence. Unverifiable claims were marked Emerging, not
+false; several were later Confirmed once primary sources were consulted.
+3. Relationship is not causation. Confirming that a startup is a programme beneficiary, even via the
+programme’s own communications, confirms the relationship and the funder’s claim — not the
+counterfactual. Funder-sourced causal claims are graded Asserted, not Established.
+
+3.5 Limitations
+There is no counterfactual in this study: no comparison group of similar non-funded startups, and no
+discontinuity analysis around eligibility thresholds. Causal claims are therefore graded but not proven.
+Aggregate figures (e.g., follow-on totals) are largely self-reported by StartupTN and unaudited here. A
+substantial share of beneficiary-level causal claims rests on StartupTN’s own posts — the party with the
+strongest incentive to claim credit. Several programmes are recent (2024–2026), so “Emerging” frequently
+denotes youth; one exception is noted (TANSEED, §6.2). Distributional (ownership) data at founder/captable level is largely unavailable in public records, so §6.3’s distributional analysis is directional.
+
+Chapter 4 — The Provisioning and Connection Layers
+4.1 Provisioning (RQ1)
+Tamil Nadu has an instrument for nearly every layer of the stack:
+Talent: Naan Mudhalvan and the Niral Thiruvizha hackathon, reaching ~28,000 students across ~290
+institutions in a recent edition [27].
+Early capital: TANSEED grants (₹10–15 lakh); a dedicated SC/ST Startup Fund; a women-led track;
+angel-network and investor-connect programmes; thematic funds [7], [8].
+Market access: a procurement framework relaxing eligibility barriers, with direct purchase up to ₹50
+lakh via TANSIM [24], [31].
+Deep-tech anchoring: IIT Madras Research Park and the iTNT Hub [6], [28].
+Convening: the annual Umagine TN summit [29].
+RQ1 is answered affirmatively: provisioning is comprehensive and spans the stack.
+
+4.2 Connection (RQ2)
+Tamil Nadu’s design wires components together:
+TANSEED takes a ~3% support stake (from edition five) and enrolls recipients in a year-long
+accelerator with mentorship and delegations [8].
+Niral Thiruvizha issues finalists Smart Cards routing them into hubs and incubators [27].
+The SC/ST Fund invests via equity/CCDs, making the state a shareholder [22].
+iTNT Hub connects 570+ colleges, researchers, and industry [28].
+TN-RISE is a women founders’ council and co-creation centre with mentorship MoUs [20].
+RQ2 is answered: connection is intentional and architecturally explicit.
+
+Chapter 5 — Findings: Case Studies
+Each case answers RQ3 (is recursion evidenced?) and, where relevant, RQ6 (caused or selected?).
+
+5.1 The Zoho / Freshworks Founder Flywheel (benchmark)
+Context. Zoho and its spin-out Freshworks made Chennai a leading SaaS hub with no decisive state role.
+Provisioning/connection. Organic and cultural: a skills-first employer training engineers who later founded
+companies. Recursion evidence. ~59 former Zoho employees became founders (Freshworks, Chargebee,
+Facilio, etc.); alumni founders became angels and mentors [2], [3]. Loop status. Closed — every turn is
+evidenced. Verification / causal grade. Confirmed; not state-caused (organic) [1], [2]. Assessment. Proof
+recursion is achievable here — and the reference standard. But the loop is narrow (urban, English-educated
+SaaS) and emerged organically over ~two decades, not via policy. It is the clearest case where recursion is
+real and ownership remains concentrated among the already-advantaged.
+
+5.2 IIT Madras Research Park / IITMIC (institutional anchor)
+Context. India’s first university research park plus its incubation cell — the country’s leading deep-tech
+incubator. Provisioning/connection. Lab access, faculty linkage, IP support, investor network, and an
+incubation model that retains a stake in companies so founders stay engaged [5]. Recursion evidence.
+457 startups over ~12 years; survival ~80% (vs typical 8–10%); ~60% non-IIT founders; two unicorns; an
+IPO (Ather) [4], [6]. Loop status. Closed (institutional). Cap-table retention is itself a designed recursion
+mechanism. Verification / causal grade. Confirmed; caused institutionally (not by StartupTN) [4], [5].
+Assessment. A model for how an institution (not a market, and not the state) can manufacture recursion.
+Inherited by the broader ecosystem.
+
+5.3 TANSEED (the state’s flagship — relationship confirmed, causation not established)
+Context. Launched 2021; StartupTN’s flagship early-capital instrument and the central test of whether the
+state can build a loop. Provisioning/connection. ₹10–15 lakh grants; ~3% support stake; year-long
+accelerator; routing into incubators and investors; ~169 startups supported since 2021 [8]. Recursion
+evidence (aggregate). Against ~₹40 crore allocated, supported startups have collectively raised ~₹535
+crore in external follow-on funding; named beneficiaries include Buyofuel, Ippopay, Gallabox, Dream
+Aerospace, Torus Robotics, Plugzmart, Greenpod [7].
+The causal caveat (central to this case). This evidence is co-occurrence, not a counterfactual. TANSEED
+selects promising startups; its association with ₹535 crore of follow-on is as consistent with skilled
+selection as with catalysis. Crucially, the celebrated cases are precisely those where selection dominates:
+ippopay (Mohan K, Chennai; payments). 2021 TANSEED winner; founder calls it the company’s “first
+recognition,” after which it scaled. Turns evidenced: grant → validation → scale. Causal grade: Asserted.
+Confirmed relationship [9], [10].
+PrimeInvestor (Srikanth Meenakshi, Vidya Bala, Bhavana Acharya; wealthtech). A ₹10 lakh TANSEED
+3.0 grant in 2022; a ₹19.5 crore Rainmatter (Zerodha) round in 2026 — its first external round. The
+founders are veteran ex-FundsIndia operators; a four-year-old non-dilutive grant is unlikely to have
+caused a Zerodha-backed round. This is the clearest illustration that beneficiary status and later
+success can be linked by the funder without a causal mechanism. Causal grade: Asserted (weak).
+Relationship confirmed [11], [12], [13], [14].
+REUDE Technologies (Reginald Chellam; drone/UAV). TANSEED 4.0 grantee and the sole TN finalist
+among the top ten at Stanford’s Seed Spark — i.e., selected for unusual promise. Causal grade:
+Asserted. Confirmed relationship [15], [16].
+HARVTECH (agritech/EV-tractors). Selected from 1,000+ applicants for a TANSEED 4.0 grant; stacked
+with IIT-M Carbon Zero recognition and a BIRAC BIG grant — again, selected for promise. Causal grade:
+Asserted. Confirmed relationship [17], [18].
+The cases that would demonstrate causation are the marginal ventures that would not have reached
+prototype or pilot without ₹10–15 lakh and an accelerator — and those are exactly the ones not celebrated,
+and for which no data is published.
+Loop status. Selection vs treatment unresolved. The beneficiary relationships and the scaling are
+Confirmed; that TANSEED caused the scaling is only Asserted. The grant → validation → scale arc is real;
+whether the state catalysed it or merely identified it is undetermined — and the strongest evidence skews
+toward identification. Assessment. TANSEED demonstrates that the state is a capable selector and
+
+credentialer whose imprimatur co-occurs with private capital. That is a valuable ecosystem function — it
+lowers VC search costs and confers legitimacy. It is not the same as originating the outcome, and the
+catalytic claim remains unproven.
+
+5.4 Public Procurement: Tamil Nadu vs. Rajasthan (comparative case)
+Context. “Government as first customer” is a textbook recursion mechanism. Tamil Nadu has the policy; a
+peer state shows the outcomes. Provisioning/connection. TN relaxes eligibility barriers and permits direct
+procurement up to ₹50 lakh [24]. Recursion evidence (thin). The Primus Partners report (Table 6) records
+Tamil Nadu at ~5 startups / ~₹0.54 crore in work orders — near Karnataka (₹0.49 crore) and Telangana (~₹1
+crore) [24]. Contrast — Rajasthan. Via iStart and e-Bazaar (plus procurement-law reform), Rajasthan
+issued 132 work orders worth over ₹25 crore to 476 startups; recipient surveys report majorities citing
+improved market access and ~70% citing increased investor interest after government contracts [24], [25].
+Kerala (~141 startups) is a second working model. Loop status. Open in Tamil Nadu; closed in Rajasthan.
+Verification / causal grade. Confirmed figures; the Rajasthan loop has at least survey-level mechanism
+evidence (Established–leaning) [24]. Assessment. The most actionable gap, and an instructive contrast:
+this is the one case where a state can plausibly claim to have caused the loop (Rajasthan’s platform + legal
+reform preceded the orders) — and Tamil Nadu has not built it.
+
+5.5 SC/ST Startup Fund (an ownership-broadening instrument — still open)
+Context. An exclusive equity fund for SC/ST founders; an explicit distributional instrument.
+Provisioning/connection. ~₹60.8 crore across ~26+ startups (₹7.5 crore to five in batch one; ₹9.75 crore
+to eight in batch two; ₹34.6 crore to 26 by end-2023), via equity/CCDs with post-investment mentorship
+[22], [23]. Recursion evidence. Named, funded companies — Ecopmin Technologies (₹3 crore), Adhiban
+Farms (₹2.2 crore), COEO Wellness (₹60 lakh), Mannvasanai Traditional Food (₹45 lakh), Nanjil Nadu Kani
+Tribal Women Creations (₹25 lakh), TAMS Tribal Green Fuel [22], [23]. Loop status. Emerging. Capital and
+credibility flow to founders; the aim of alumni becoming mentors/role models is not yet documented.
+Assessment. Precisely the kind of instrument the ownership question cares about — and it has not closed.
+The state’s distributional bets remain at the funding stage, not yet recursive.
+
+5.6 Women-Led TANSEED and TN-RISE (an ownership-broadening instrument — still
+open)
+Context. A women-led TANSEED track plus TN-RISE, a women founders’ council launched July 2024
+(World Bank-supported) [20], [21]. Provisioning/connection. ₹15 lakh women-led TANSEED awards; TNRISE as a co-creation centre with mentorship MoUs (Flipkart, HP, FLO) and a stated target of ~1,000+
+women mentored per year [21]. (Some StartupTN materials cite larger targets; this thesis uses the
+conservative figure.) Recursion evidence. At the Global Women Summit 2026 (TNWeSafe), ₹15 lakh
+TANSEED awards went to women-led ventures including Dukil Medical and Technical Textiles (Santhiya
+Selvakumar, Erode), Aruvi Eco (Kalaiselvi Balamurugan, Tiruppur), and others across Coimbatore, Chennai,
+and Tiruvannamalai (StartupTN official post, Global Women Summit 2026). Loop status. Emerging.
+Network and mentorship architecture exist; founder-to-founder peer financing/mentorship closure not
+documented; TN-RISE is barely a year old. Assessment. Like the SC/ST fund, an ownership-broadening
+instrument that has not yet closed — reinforcing the §6.3 pattern.
+
+5.7 Niral Thiruvizha (talent funnel, pipeline documented)
+Context. A mass student-innovation hackathon under Naan Mudhalvan [27]. Provisioning/connection.
+
+~28,450 students from ~290 institutions; ₹10,000 prototype grants (top 1,000), ₹2 lakh vouchers (top 50),
+Smart Cards routing finalists into hubs [27]. Recursion evidence. The pipeline is documented — e.g., KCG
+College of Technology had two teams among the top 50 for ₹1 lakh grants (144 teams shortlisted from
+837), connected to StartupTN regional hubs (KCG College official post, Sept 2024). Loop status.
+Promising / open. Funnel and hand-off are real; a “hackathon team became funded company” exit is not
+on record. Assessment. An excellent top-of-funnel whose recursion claim rests on conversion data the
+programme does not publish.
+
+Chapter 6 — Cross-Case Analysis and Discussion
+6.1 The causation problem: selector, not originator (RQ6)
+Across the closed and partly-closed cases, the state’s demonstrated role is identification and certification,
+not origination. The two fully closed loops are inherited (Zoho organic; IITMRP institutional). The flagship
+state instrument, TANSEED, shows beneficiary relationships and scaling but no counterfactual; its
+showcase cases are selected-for-promise, so its headline ₹535 crore follow-on is at least as consistent
+with skilled selection as with catalysis. The honest reframe is therefore stronger and less flattering than
+“the first state-built loop is closing”: the state is best evidenced as a credentialer, convener, and
+selector riding loops it does not clearly originate. This is not a dismissal — good selection and signalling
+lower search costs for investors and confer legitimacy, which is real value — but it is a different and weaker
+claim than catalysis, and it is the claim the evidence supports. The one place a state plausibly caused a
+loop is Rajasthan’s procurement platform, which Tamil Nadu has not replicated.
+
+6.2 The half-turn problem (RQ4)
+Almost every confirmed state case demonstrates grant → validation → scale → follow-on capital and
+stops there. The missing turn is founder → investor/mentor → next founder — the turn that converts
+funded alumni into a self-sustaining flywheel, and the one turn the state can prompt but not provision. For
+the newest programmes this absence is plausibly just youth. For TANSEED it is becoming weak data: five
+years and eight editions in, with ~169 beneficiaries, there is still no documented case of a TANSEED
+graduate financing or formally mentoring a later cohort. This is suggestive rather than conclusive — the full
+flywheel historically takes ~15 years (Zoho’s did), and a founder must first reach liquidity — but at five years
+the silence is no longer purely premature.
+
+6.3 Recursion is not ownership (RQ7)
+Every loop measured here closes through follow-on funding, which dilutes founders and channels equity to
+external investors and acquirers. A vigorously recursing ecosystem can therefore be an ownershipconcentrating one. Two observations sharpen this:
+1. The closed loop is narrow. The only fully closed loop (Zoho/Freshworks SaaS) is urban, Englisheducated, and elite. Recursion here is real and concentrated among the already-advantaged.
+2. The broadening instruments are the open ones. The programmes explicitly designed to widen who
+owns — the SC/ST fund, the women-led track, rural and tier-2 efforts — are precisely the loops that
+have not closed (§§5.5–5.6).
+So the state’s distributional ambitions sit exactly where recursion is weakest, while the recursion that exists
+
+widens nothing. A closing loop among the advantaged is not ownership-broadening. (This analysis is
+directional: founder/cap-table-level ownership data is largely unavailable publicly, so the claim is that
+recursion and ownership must be held apart, not that concentration is quantified.)
+
+6.4 Policy without a platform
+Procurement shows a connection that exists on paper but lacks a transactional engine. Rajasthan’s contrast
+indicates the decisive variable is operational infrastructure (e-Bazaar) plus legal reform, not policy intent
+[24].
+
+6.5 What predicts closure
+Loops closed where (i) the connector had a structural reason to keep founders engaged (IITMRP’s captable retention; Zoho’s culture), (ii) a transactional platform converted eligibility into transactions
+(Rajasthan’s e-Bazaar), and (iii) enough time had passed for a first generation to mature into financiers.
+Tamil Nadu’s programmes have (i) partially (TANSEED’s stake), lack (ii) in procurement, and are still
+accumulating (iii).
+
+6.6 Source-reliability caveat
+A large share of beneficiary-level causal claims rests on StartupTN’s own posts — the funder celebrating
+beneficiaries it has every incentive to claim credit for. These are graded Confirmed for the relationship and
+Asserted for causation. Independent corroboration exists for the beneficiary status of the key cases (e.g.,
+the Headstart cohort listing for PrimeInvestor; the Stanford cohort page for REUDE) but not for the causal
+link.
+
+Chapter 7 — Conclusions and Recommendations
+7.1 Conclusion (RQ5, RQ6, RQ7)
+Tamil Nadu has understood that ecosystems are recursive and has engineered connection points into
+almost every component it funds. Recursion is genuinely evidenced — but two qualifications reshape the
+verdict. On causation: none of the closed or closing loops is clearly state-caused; the two fully closed
+loops are inherited, and the flagship loop’s evidence is selection-consistent, so the state’s demonstrated
+role is credentialer, convener, and selector rather than originator. On distribution: recursion is not
+ownership; the one fully closed loop is narrow and elite, while the instruments built to broaden ownership
+are exactly the ones still open.
+The defensible verdict is therefore: ecosystem formation in Tamil Nadu is real and accelerating, but it is
+neither clearly state-caused nor, as yet, ownership-widening. Recursion is necessary but not sufficient,
+and closure among the already-advantaged is not the same as broad-based ownership. This is the
+scorecard the state would not publish — which is the only kind worth writing.
+
+7.2 Recommendations
+1. Test causation, don’t assert it. Evaluate TANSEED against a comparison group of near-miss
+applicants (a regression-discontinuity around the selection threshold) to separate selection from
+treatment. Until then, claim credentialing, not catalysis.
+
+2. Close the half-turn deliberately. Create pathways and incentives for TANSEED/SC/ST/women-led
+alumni to become mentors and angels for later cohorts.
+3. Give procurement a platform. Replicate Rajasthan’s e-Bazaar — a transactional catalog plus legal
+reform, with published outcomes [24].
+4. Measure ownership, not just formation. Publish founder-retention and cap-table-distribution data,
+and track whether the SC/ST, women-led, rural, and tier-2 loops actually close — the test of whether
+recursion is widening ownership or concentrating it.
+5. Protect the institutional model. Treat IITMRP’s cap-table retention as a template for structurally
+retaining founders.
+
+7.3 Falsifiable indicators of genuine, broad-based closure (3–5 years)
+A credible counterfactual evaluation showing TANSEED beneficiaries outperform comparable near-miss
+applicants (causation, not selection).
+Named cases of TANSEED/SC/ST/women-led graduates investing in or mentoring later cohorts (the
+half-turn).
+TN realized procurement work-order value rising from ~₹0.54 crore toward peer-state levels.
+The SC/ST and women-led loops closing — beneficiaries recirculating — i.e., broadening loops, not only
+the elite SaaS loop, beginning to recurse.
+If these move, the ecosystem is becoming self-sustaining and broadening. If only the elite loop continues to
+recurse while the rest stay open, Tamil Nadu will remain an impressively provisioned, deliberately
+connected ecosystem whose recursion is narrow and whose self-sustenance is still state-credentialed.
+
+Appendix A — Recursion Audit Matrix
+Initiative
+
+Zoho /
+Freshworks
+network
+
+IIT Madras
+Research
+Park
+
+Component
+
+Connection
+
+Recursion
+evidence
+
+Loop status
+
+Causal
+grade
+
+Founder →
+
+~59 ex-Zoho
+
+Talent /
+
+employee
+
+founders;
+
+Closed
+
+Organic (not
+
+Confirmed
+
+culture
+
+→ founder
+
+alumni now
+
+(narrow/elite)
+
+state)
+
+[2]
+
+→ investor
+
+angels/mentors
+
+Founder–
+
+457 startups;
+
+Anchor
+
+faculty–
+
+~80% survival;
+
+Closed
+
+institution
+
+investor
+
+cap-table
+
+(institutional)
+
+links
+
+retention
+
+Institutional
+(not
+StartupTN)
+
+~₹40 Cr →
+
+Capital
+(grants)
+
+Confirmed
+[4]
+
+Relationship
+
+~₹535 Cr
+TANSEED
+
+Verification
+
+Confirmed;
+
+Grant →
+
+follow-on;
+
+Selection vs
+
+Asserted
+
+ippopay,
+
+causation
+
+accelerator
+
+treatment
+
+(funder-
+
+PrimeInvestor,
+
+not
+
+→ scale
+
+unresolved
+
+claimed)
+
+established
+
+REUDE,
+
+HARVTECH
+
+Procurement
+
+SC/ST
+Startup
+Fund
+
+Market
+access
+
+Govt
+customer →
+credibility
+
+TN ~5 / ₹0.54
+Cr vs
+Rajasthan 132 /
+₹25 Cr
+
+Funding +
+Capital
+
+credibility
+
+~₹60.8 Cr /
+
+(equity/CCD)
+
+→
+
+~26+ startups
+
+leadership
+
+[7]
+
+Open (TN);
+
+Rajasthan:
+
+closed
+
+Established-
+
+(Rajasthan)
+
+leaning
+
+Emerging
+(broadening
+
+Confirmed
+[24]
+
+Confirmed
+Not tested
+
+instrument)
+
+funding
+[22]
+
+₹15L awards
+Women-led
+TANSEED /
+TN-RISE
+
+Women
+founders
+
+Peer /
+
+(Dukil, Aruvi
+
+Emerging
+
+mentor
+
+Eco, etc.);
+
+(broadening
+
+networks
+
+council +
+
+instrument)
+
+Not tested
+
+Confirmed
+awards [20]
+
+MoUs
+
+Niral
+
+Talent /
+
+Thiruvizha
+
+ideas
+
+Hackathon
+→ hub →
+startup
+
+Industry–
+iTNT Hub
+
+Deep-tech
+
+academia–
+founder
+
+Umagine TN
+
+Convening
+
+Temporary
+interactions
+
+~28,450
+students; KCG
+
+Promising /
+
+top-50 → ₹1L
+
+open
+
+Confirmed
+Not tested
+
+pipeline
+[27]
+
++ hub linkage
+570+ colleges;
+Deep Tech
+Policy 2025–
+
+Emerging
+
+Not tested
+
+Confirmed
+activity [28]
+
+26
+Annual summit;
+policy
+launches
+
+Weak by
+design
+
+n/a
+
+Confirmed
+[29]
+
+Reading the matrix: “Confirmed” verifies the beneficiary relationship and reported outcome; it does not
+verify that the programme caused the outcome. The “Causal grade” column carries that judgement
+separately. No state programme here reaches “Established” causation; Rajasthan’s procurement loop
+(external comparator) comes closest.
+
+References
+1. Vertex Ventures / A. Gupta, “The Dawn of a Founder-led Startup Ecosystem in India,” Medium, 2021.
+https://medium.com/vertexventures/the-dawn-of-a-founder-led-startup-ecosystem-in-india-mafiasangels-communities-and-more-91f558e33525
+2. Inc42, “Zoho Mafia: Inside India’s School of SaaS,” 2021. https://inc42.com/features/zoho-mafia-insideindias-school-of-saas/
+3. YourStory, “Meet the Zoho Mafia,” 2019. https://yourstory.com/2019/03/zoho-mafia-startups-exemployees
+4. IIT Madras, “IIT Madras Incubates 100+ Deep Tech Startups in a Single Financial Year,” press release,
+
+2025. https://www.iitm.ac.in/happenings/press-releases-and-coverages/iit-madras-incubates-100deep-tech-startups-single
+5. YourStory, “How IIT Madras Incubation Cell is powering India’s next-gen deeptech startups,” 2025.
+https://yourstory.com/2025/12/how-iit-madras-incubation-cell-is-powering-indias-next-gen-deeptechstartups
+6. FAST India, “IIT Madras Research Park Case Study,” 2025 (PDF). https://www.fast-india.org/wpcontent/uploads/2025/01/IITMRESEARCHPARK_doublepage.pdf
+7. Inc42, “Inside Tamil Nadu’s Vision To Become A Global Startup Hub,” 2025.
+https://inc42.com/features/inside-tamil-nadus-vision-to-become-a-global-startup-hub/
+8. Entrepreneur India, “StartupTN Opens Applications for TANSEED 8.0,” 2026.
+https://india.entrepreneur.com/news-and-trends/startuptn-opens-applications-for-tanseed-80-seedfunding/500553
+9. UNI / PRNewswire, “Buyofuel and IppoPay … final winners of TANSEED,” 2021.
+http://www.uniindia.com/buyofuel-and-ippopay-startups-from-aic-raise-incubator-are-among-thefinal-winners-of-tanseed-by-govt-of-tamil-nadu/business-economy/news/2323088.html
+10. StartupTN, “TANSEED was our first recognition — Mohan K, ippopay” (video).
+https://www.youtube.com/shorts/e2HOZuyv_EU
+11. StartupTN, “Congratulations to PrimeInvestor on its Fundraise (TANSEED winner),” LinkedIn, 2026.
+https://www.linkedin.com/posts/thestartuptn_startuptn-tanseed-fundraise-activity7454733662153117696-AYD9
+12. TANSEED 3.0 cohort announcement (lists PrimeInvestor), LinkedIn, 2022.
+https://www.linkedin.com/posts/sgautham_tanseed-30-activity-6963147758929158144-iQpC
+13. Entrackr, “Zerodha-backed Rainmatter invests in PrimeInvestor,” 2026.
+https://entrackr.com/news/zerodha-backed-rainmatter-invests-in-wealth-tech-startup-primeinvestor11750659
+14. The Statesman, “Wealthtech startup PrimeInvestor raises Rs 19.5 crore from Rainmatter,” 2026.
+https://www.thestatesman.com/business/wealthtech-startup-primeinvestor-raises-rs-19-5-crore-fromrainmatter-capital-1503585703.html
+15. StartupTN, “Congratulations to REUDE (TANSEED beneficiary), top-10 Stanford Seed Spark,” LinkedIn,
+2024. https://www.linkedin.com/posts/thestartuptn_startuptn-tanseed-reude-activity7230433899510644737-i417
+16. Stanford Seed Spark, “Spark 08: March–July 2024” cohort (lists REUDE Technologies).
+https://web.stanford.edu/group/stanfordseed/cgi-bin/seedspark/spark-08-march-july-2024/
+17. HARVTECH, “TANSEED 4.0 grant” announcement, LinkedIn.
+https://www.linkedin.com/posts/harvtechllp_grant-tanseed-agritech-activity-7195626326802812928B8Tg
+18. YourStory, “From space to sustainability: These Tamil Nadu startups…,” 2025.
+https://yourstory.com/2025/10/space-to-sustainability-tamil-nadu-startups-redefining-innovation
+
+19. Reginald C (REUDE Technologies), founder profile. https://www.linkedin.com/in/reginald-c-38759b138/
+20. VKP-TNRTP, “TN-RISE Women Start-up Council Inauguration Report,” 2024. https://www.vkptnrtp.org/tn-rise-women-start-up-council-inauguration-report/
+21. AtomNews, “Tamil Nadu Government Launches TN-RISE,” 2024. https://atomnews.in/news/tamil-nadugovernment/
+22. Business Standard, “5 startups receive Rs 6.5 cr equity investment from Tamil Nadu govt,” 2023.
+https://www.business-standard.com/india-news/5-startups-receive-rs-6-5-cr-equity-investment-fromtamil-nadu-govt-123122800800_1.html
+23. TICE, “Inclusive Innovation: Tamil Nadu SC/ST Startups…,” 2023. https://www.tice.news/ticetrending/inclusive-innovation-tamil-nadu-sc-st-startups-ring-in-happy-new-year-2055122
+24. Primus Partners & JITO, “Public Procurement: A ₹88,000 Cr Opportunity for India’s Startups,” 2025
+(PDF).
+https://primuspartners.in/docs/documents/Procurement%20Thought%20Leadership%20report%201.pdf
+25. YourStory, “Public procurement can power Indian startups with Rs 88,000 Cr opportunity,” 2025.
+https://yourstory.com/2025/07/public-procurement-can-power-indian-startups
+26. StartupTN portfolio profile, Tracxn. https://tracxn.com/d/acceleratorincubator/startuptn/__zqhtKTgh9amJCrnE5WIF4RJR1O4vKDE0g1Yxg5iCoUA
+27. Niral Thiruvizha (Naan Mudhalvan), official programme page. https://niralthiruvizha.in/about
+28. iTNT Hub, official site. https://www.tnthub.org/
+29. Entrepreneur India, “Tamil Nadu Launches Deep Tech Startup Policy,” 2026.
+https://www.entrepreneur.com/en-in/news-and-trends/tamil-nadu-launches-deep-tech-startup-policytargets-inr/501795
+30. Startup Genome, “Tamil Nadu” ecosystem profile. https://startupgenome.com/ecosystems/tamil-nadu
+31. IndiaFilings, “The Tamil Nadu Startup Policy.” https://www.indiafilings.com/learn/tamil-nadu-startuppolicy
+32. State Planning Commission, Tamil Nadu, “Startup Ecosystem” report (PDF). https://spc.tn.gov.in/wpcontent/uploads/Startup_Eco_System.pdf
+33. “The State of Tamil Nadu Startup Ecosystem Report 2025.”
+https://www.scribd.com/document/1005455158/The-State-of-Tamil-Nadu-Startup-Ecosystem-Report2025
+
+Method note: claims are graded for evidence (Confirmed / Emerging) and, where causal, for causation
+(Established / Asserted / Not tested). Nearly all confirmed evidence demonstrates the grant → validation →
+scale arc; the founder → investor/mentor → next-founder closure remains strongest in the organic
+Zoho/IITMRP anchors and is not yet documented for the state’s newer programmes. No state programme’s
+catalytic role reaches Established causation in public records; several key causal claims rest on the funder’s
+own communications and are graded Asserted. Two primary sources (the StartupTN women-led TANSEED
+awards post and the KCG Niral Thiruvizha finalists post) were reviewed directly but lacked stable public
+
+URLs and are cited descriptively by issuer and date.
+
+

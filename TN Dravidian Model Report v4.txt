@@ -1,0 +1,476 @@
+From Social Justice to Developmental State
+The Evolution of the Dravidian Model — and How Tamil Nadu
+Financed It (1967 → 2026)
+A Finance-Portfolio Performance Report and Economic-Governance Case
+Study
+Portfolio: Finance, Environment & Climate Change (Hon’ble Minister Thiru. Thangam
+Thennarasu) Review period (detailed): May 2021 – FY 2025-26, set within a 1967–2026
+historical arc.
+Prepared from: the Finance-portfolio departmental note; RBI State Finances: A Study of
+Budgets; an independent GSDP-performance column; the DMK IT Wing booklet
+Thalainimirntha Tamil Nadu (2021–2026); and externally verified official sources (Economic
+Survey of Tamil Nadu 2025-26, TN Budget documents, NITI Aayog, TN Industries
+Department, PRS Legislative Research).
+Central thesis: Tamil Nadu’s 2021–2026 experience suggests that social welfare and
+economic transformation are not competing goals; they reinforce one another when
+supported by fiscal capacity, state capacity, and industrial policy. This report assembles the
+evidence, traces the institutional machinery, treats human capital as economic
+infrastructure, and reads the period as the latest phase in a sixty-year developmental
+trajectory.
+Discipline note. Government projections, MoU commitments, contested figures, and
+out-of-period data are flagged throughout. Credibility before advocacy.
+
+PART I — SNAPSHOT
+1. Top 10 Finance-Portfolio Achievements
+1. ₹31.19 lakh crore GSDP (2024-25), 11.19% real growth — fastest among states; first
+double-digit growth in 14 years.
+2. Own-revenue self-reliance 75.3% (2025-26 BE) vs all-states 58.2%.
+
+3. India’s No. 1 electronics-exporting state — record $14.65 billion (2024-25).
+4. Merchandise exports nearly doubled to $52.07 billion; No. 1 in electronics, textiles,
+leather.
+5. Per-capita income ₹3.62 lakh — ~1.77× the national average.
+6. ₹12.16 lakh crore investment MoUs since 2021 (~36.4 lakh jobs; ~80% under
+execution), incl. ₹6.64 lakh crore at GIM 2024.
+7. IFHRMS 2.0 statewide — 9.2 lakh employees, 7.4 lakh pensioners, RBI e-Kuber-linked.
+8. ₹1,363 crore mobilised via TNIFMC (Shelter, Emerging-Sector, Green Climate funds).
+9. Fiscal discipline — deficit ~3% of GSDP; debt-to-GSDP ~26%, within FC limits.
+10. Audit modernisation (CAMS/APMS) + layered workforce social security.
+
+2. Executive Summary
+Between 2021 and 2026, four reinforcing goals — fiscal self-reliance, digital
+administration, social security, climate-aligned infrastructure finance — underwrote a
+simultaneous expansion of welfare and investment. Tamil Nadu remained India’s secondlargest state economy, grew fastest among states, doubled merchandise exports, and
+became the leading electronics exporter, while deficits returned toward statutory norms.
+The report’s distinctive claim is interpretive: 2021–2026 marks Tamil Nadu’s maturation
+from a social-justice state and an industrial state into a developmental state, where
+welfare and growth compound.
+
+3. The Tamil Nadu Model in One Diagram
+(See accompanying graphic TN_Model_Causal_Chain.svg.)
+Fiscal Self-Reliance
+
+(~75% own revenue)
+
+↓
+Digital State Capacity
+
+(IFHRMS 2.0 · CAMS · TNPFMS)
+
+↓
+Welfare Delivery at Scale
+
+(income support · health · education)
+
+↓
+Human Capital
+
+(healthier, better-educated workforce)
+
+↓
+Investment Attraction
+
+(₹12.16 lakh cr MoUs · GIM 2024 · FDI)
+
+↓
+Exports & Manufacturing
+↓
+
+(No.1 electronics · $52 bn exports)
+
+Economic Growth
+
+(₹31.19 lakh cr GSDP · 11.2% growth)
+
+└──── feedback: growth replenishes own revenue ────┘
+
+Each stage funds or enables the next; the final stage feeds back into the first.
+
+PART II — THE EVIDENCE
+4. Economic Transformation
+GSDP ~₹17.9 lakh cr (2020-21) → ₹31.19 lakh cr (2024-25), 11.19% real growth (highest
+among states); per-capita income ₹3.62 lakh (~1.77× national); exports doubled to $52.07
+bn (No. 1 electronics/textiles/leather); electronics exports $14.65 bn; manufacturing
++14.74%, FDI $3.68 bn. EPI: No. 1 (2022), No. 2 behind Maharashtra (EPI 2024, released
+Jan 2026). Poverty (National MPI) 4.76%→2.20% (2015-16 to 2019-21) — mostly pretenure; not over-attributed.
+
+5. Fiscal Self-Reliance & Comparative Benchmark
+Year
+
+Tamil Nadu
+
+Karnataka
+
+Maharashtra
+
+All States
+
+2020-21
+
+66.97
+
+66.97
+
+66.88
+
+52.10
+
+2023-24
+
+73.01
+
+75.69
+
+75.06
+
+57.82
+
+2025-26 (BE)
+
+75.31
+
+76.79
+
+74.98
+
+58.17
+
+Tamil Nadu funds ~three-quarters of revenue from own sources — ~17 points above the allstates average; the precondition for sustainable welfare and budget flexibility.
+
+6. Creditworthiness & Fiscal Discipline
+Fiscal deficit ~4.99% (2020-21 RE) → 3.0% (2025-26 BE); revenue deficit 3.28% → ~1.6%;
+debt-to-GSDP ~26% within FC limits; outstanding debt ₹9.29→9.52 lakh cr. Absolute debt
+rose, but the ratio held as GSDP grew — sustainability is about the ratio. (Indian states carry
+no standalone rating; creditworthiness = deficit path + debt sustainability + market access.)
+
+7. GST & Revenue Mobilisation
+The 75% ratio is the outcome; SGST + Commercial Taxes are the cause. Levers: e-
+
+Challan/e-Receipt (24×7), RBI NEFT/RTGS instant credit, Commercial-Taxes/Excise
+integration — converting growth into real-time, leak-proof fiscal space. Data gap: an
+SGST/SOTR collection-growth annexure would make this airtight.
+
+8. Industrial Depth as a Competitive Advantage
+Tamil Nadu does not merely host factories — it hosts entire industrial ecosystems (OEMs
++ suppliers + logistics + skills co-located):
+Automobile (“Detroit of India”): ~35% of India’s vehicle production; ~22 lakh auto
+jobs; exports to 100+ countries.
+Electronics: the cluster that made TN India’s No. 1 electronics exporter; the first State
+Electronics Components Manufacturing Scheme deepens local value-add (PCBs,
+displays, camera modules, sensors).
+EV & batteries: an emerging hub on the auto base (Hosur–Krishnagiri belt).
+Engineering, textiles, leather: No. 2 engineering exports; No. 1 textiles/leather —
+diversified, formal-sector-heavy baskets.
+GCCs & services: Chennai a leading Global Capability Centre and IT/fintech hub.
+Ecosystems are sticky: suppliers, skills and logistics co-locate, raising the cost of exit and
+the depth of value capture — which is why the position is durable, not just a list of
+announcements.
+
+9. District Evidence: Where the Transformation Is Visible
+The state-wide story becomes concrete at the district level:
+Place
+
+Role
+
+Marker
+
+Sriperumbudur–
+
+Electronics + auto
+
+“iPhone city”; Hyundai + global
+
+Oragadam
+
+manufacturing belt
+
+electronics makers
+
+Hosur
+(Krishnagiri)
+
+Chennai
+
+Coimbatore
+
+Fastest-growing industrial
+town;
+EV/electronics/components
+Auto, IT/GCC, fintech; Avadi
+defence corridor
+Engineering, pumps/motors,
+MSME, textiles
+
+Bengaluru–Chennai corridor
+advantage
+
+India’s “Detroit”; services depth
+
+Deep MSME + engineering base
+
+Tiruppur
+
+Thoothukudi
+
+“Knitwear Capital of India” /
+“Dollar City”
+Port, energy, export gateway
+
+~10 lakh jobs; ~90% of India’s cottonknitwear exports; ~₹45,000 cr
+business
+PM10 down ~45% (NCAP, 2021–25)
+
+Honest note: this geography also carries external risk — in 2025, US tariffs stalled an
+estimated ₹1,500–2,000 crore of Tiruppur knitwear, a reminder that export-led clusters are
+exposed to global trade shifts.
+
+10. Infrastructure Financing & Investment Attraction
+TNIFMC (≈₹1,363 cr): Shelter Fund ₹658 cr (17 Thozhi hostels / 1,800 beds);
+Emerging-Sector Seed Fund ₹105 cr (+₹200 cr); Green Climate Fund ₹100 cr (+₹300
+cr).
+Investment (2021–26): 1,176+ MoUs, ₹12.16 lakh cr (~$136 bn), ~36.4 lakh jobs,
+~80% under execution (Conversion Conclave 2026: ₹12.37 lakh cr / 73.5%
+conversion). GIM 2024: ₹6.64 lakh cr, ~26.9 lakh jobs. Committed MoUs, not realised
+— track conversion.
+TNIDB PPP/HAM/DBFOT pipeline; Chennai City Partnership US$701 m (World Bank +
+AIIB US$150 m each). Target: $1 trillion economy by 2030.
+
+11. Heritage as Economic Policy
+Archaeology as tourism, identity and livelihood: ₹16.93 cr conservation; ₹25 cr (2025-26);
+Keeladi (₹3.8 cr) and Porunai (₹58.69 cr) museums; Mayiladumparai iron dated ~4,200 yrs
+(c. 2172 BCE); Gangaikonda Cholapuram maritime-trade evidence; 20,000+ inscriptions;
+four new district museums.
+
+12. Climate Finance Leadership
+Climate as an economic portfolio: TN Green Climate Fund (SEBI 03.08.2023; ₹110 cr
+phase 1; 2.5 MMT target; net-zero-2070); Emerging Sector Seed Fund (13 startups, ₹30.1
+cr); District Climate Missions, Green Local Bodies (297), Green Fellows (1,284+
+campaigns); Meendum Manjappai (15 lakh+ bags); TNPCB PM10 cuts — Thoothukudi
+−45%, Trichy −18%, Madurai −18%, Chennai −12%.
+
+PART III — THE INSTITUTIONAL MACHINERY (HOW)
+13. Finance as the Enabler of Welfare
+Higher own-revenue + digital treasury = welfare at scale. Flagships ride the rails Finance
+built — Magalir Urimai Thogai, Pudhumai Penn, Tamil Pudhalvan, CM Breakfast Scheme,
+Makkalai Thedi Maruthuvam, free bus travel — all via DBT/IFHRMS, funded by self-reliance.
+The state already administers 14 lakh Old-Age Pension and 8 lakh Muthulakshmi
+beneficiaries plus 9.2 lakh employees / 7.4 lakh pensioners: welfare scaled up because the
+systems were built first.
+
+14. The State-Capacity Stack
+REVENUE COLLECTION
+
+e-Challan · e-Receipt · NEFT/RTGS · e-Kuber
+
+↓
+TREASURY
+
+IFHRMS 2.0 ("Kaniniyam")
+
+↓
+SCHEME DELIVERY
+
+DBT · Global Beneficiary Master · pensions
+
+↓
+AUDIT
+
+CAMS · APMS · IDEA
+↓
+
+PERFORMANCE
+
+TNPFMS (99 schemes, 40 departments)
+
+Before → After: manual paper treasury, cash receipts, lagging audit, siloed monitoring → a
+unified, RBI-linked, real-time financial state.
+Treasury detail: Family Security Fund (₹50,000 payout; ₹121 cr cleared 25,000 claims);
+Employees’ Medical Insurance 2021 (3,33,675 beneficiaries / ₹1,706.19 cr; extended
+30.06.2026); Pensioners’ 2022 (3,37,338 / ₹1,447.91 cr); Employee Account bank MoU
+(₹1 cr cover; ₹20.65 cr to 46 families).
+Audit detail: CAMS (15.04.2025), APMS (17.11.2025); 81,354 + 2,049 paras cleared;
+₹528.41 cr fees; 53,280 milk co-operatives audited.
+
+PART IV — THE HUMAN-CAPITAL ENGINE
+15. Human Capital as Economic Infrastructure
+Tamil Nadu’s welfare schemes are not only social protection — they are labour-market
+
+investments. Roads move goods; human capital moves economies.
+CM Breakfast Scheme — nutrition that protects early-years cognitive development and
+school attendance.
+Pudhumai Penn & Tamil Pudhalvan — monthly stipends that keep government-school
+students in higher education, widening the skilled-labour pool.
+Naan Mudhalvan — a flagship skilling platform aligning students with industry-relevant
+skills (the supply side of the manufacturing/services demand documented in Part II).
+Higher-education expansion — among the highest gross enrolment ratios in India,
+feeding engineering, electronics and services.
+The argument: a deep industrial base (Part II) can only absorb labour if the workforce is
+healthy, educated and skilled. Welfare spending on nutrition, schooling, stipends and skilling
+is therefore an input to growth, building the human infrastructure that factories and GCCs
+draw on — exactly the link the causal chain (§3) formalises. (To move this from plausible to
+proven, pair it with district-level enrolment, skilling-placement and labour-forceparticipation data — see §24.)
+
+16. The Women-Led Growth Story
+Few state reports explain growth through a gender lens; in Tamil Nadu it is central. A distinct
+causal sequence is visible:
+Women's mobility & income
+
+(free bus travel · Magalir Urimai Thogai · SHG finance)
+
+↓
+Higher female labour-force participation
+↓
+Higher household incomes
+↓
+Better educational & health outcomes for the next generation
+↓
+Stronger, broader-based economic growth
+
+Free bus travel (Vidiyal Payanam) lowered the cost and friction of women reaching
+work, training and markets.
+Magalir Urimai Thogai put cash directly with women heads of household, improving
+bargaining power and consumption stability.
+Pudhumai Penn raised girls’ transition to higher education.
+SHG financing channelled credit to women entrepreneurs.
+
+High female factory employment in electronics and textiles (e.g., the largely women
+workforce of the Tiruppur and electronics clusters) connects women’s labour directly to
+the export engine.
+Women’s mobility and income are not only equity goals — they are growth inputs,
+expanding the effective workforce and lifting household-level human-capital investment.
+
+17. Why Welfare Did Not Crowd Out Growth
+Critics assume more welfare = less growth. Tamil Nadu’s record challenges this: both
+expanded together.
+Welfare expansion
+
+Simultaneous growth
+
+Magalir Urimai Thogai
+
+₹12.16 lakh cr investment MoUs
+
+CM Breakfast Scheme
+
+Exports doubled to $52 bn
+
+Free bus travel
+
+No. 1 in electronics exports ($14.65 bn)
+
+Doorstep & insured healthcare
+
+FDI $3.68 bn; 11.2% real growth
+
+The mechanism (not coincidence): welfare built human capital (§15–16); fiscal selfreliance funded it without crowding out capex; state capacity kept delivery efficient.
+Welfare behaves as an input to growth, not a drain.
+
+PART V — INTERPRETATION & HISTORICAL
+SIGNIFICANCE
+18. The 2021–2026 Inflection Point
+Was this a post-pandemic rebound, or the start of a transition into a high-technology
+industrial economy? The evidence points to transition: electronics leadership +
+component manufacturing (moving up the value chain), an EV/battery ecosystem,
+semiconductor/advanced-electronics ambitions (early-stage), GCC/digital-services
+growth, climate finance as a new asset class, and sustained manufacturing expansion.
+Read together, the period looks less like recovery and more like a structural turning point.
+
+19. An International Lens: Developmental-State Logic
+
+Tamil Nadu’s combination of manufacturing + human capital + export orientation + an
+active state echoes the logic of the East Asian developmental states — South Korea and
+Taiwan, and more recently Vietnam — which paired export-led industrialisation with heavy
+investment in education and health and deliberate industrial policy.
+This is an analogy of logic, not a claim of equivalence. Important differences: Tamil Nadu is a
+sub-national economy inside India’s federal and monetary framework — it does not control
+currency, tariffs or sovereign trade policy, and its scale and per-capita income are different.
+What the comparison illuminates is the development model: social investment and industrial
+policy as complements, sustained over time, generating export competitiveness. It also
+flags the same risks those economies faced — external-demand shocks (cf. the 2025
+Tiruppur tariff episode), the need to keep climbing the value chain, and managing debt
+during the build-out.
+
+20. The Evolution of the Dravidian Model: 1967 → 2026
+The 2021–2026 record is best understood as the third phase of a sixty-year trajectory.
+Phase 1 — The Social-Justice State (1967 onward). Rooted in the Self-Respect and
+Dravidian movements, the first DMK government (1967) institutionalised social justice:
+broad reservation (eventually ~69%), expanded education access, the nutritious
+midday-meal tradition (Kamaraj’s scheme, universalised under MGR), and Tamil language
+and identity. The defining achievement was inclusion — widening who could participate in
+public life.
+Phase 2 — The Industrial State (c. 1990–2020). Liberalisation-era industrialisation
+layered an economic base onto the social one: SIPCOT parks and industrial estates, the
+automobile cluster (the “Detroit of India”), the rise of IT and services in Chennai, and a
+dense MSME network. The defining achievement was capacity — building the factories,
+corridors and firms.
+Phase 3 — The Developmental State (2021–2026). This report’s subject: welfare and
+human capital and digital governance and exports and advanced manufacturing and climate
+finance, knit together by fiscal self-reliance and state capacity. The defining achievement is
+synthesis — making distribution and production reinforce each other.
+The interpretation: The Dravidian Model evolved from a social-justice project into a
+developmental-state project without abandoning its social-justice foundations. Each
+phase kept the previous one’s gains and added a new capability — inclusion, then
+capacity, then synthesis.
+
+21. From Welfare State to Developmental State (Capstone)
+
+Everything above supports one proposition:
+Social welfare and economic transformation are not competing goals; they can
+reinforce one another when supported by strong institutions, fiscal capacity, and
+industrial policy.
+A welfare state distributes. A developmental state distributes while building productive
+capacity — financing the social floor from its own revenue, delivering it through digital state
+capacity, converting it into human capital, and channelling that human capital into a deep
+industrial and export base. The Dravidian Model’s claim to significance is not any single
+scheme or statistic; it is the demonstration that the two can compound. That is the
+proposition worth citing in any serious discussion of Tamil Nadu’s development trajectory.
+
+PART VI — FOR POLICY MAKERS
+22. Observations & Recommendations
+1. Publish revenue outcomes — an SGST/SOTR growth annexure to make the 75% claim
+self-evident.
+2. Lock in self-reliance structurally — finish Transport/Registration/TANGEDCO/GST
+integration; quarterly receipts dashboard.
+3. Manage the debt narrative — absolute debt up, ratio within limits; pair with the deficit
+path.
+4. Pre-fund social-security schemes — actuarial corpus rules (the Family Security Fund
+needed a ₹121 cr bailout).
+5. Report realised investment — a “committed → grounded → operational” scoreboard
+for the ₹12.16 lakh crore.
+6. Scale climate funds toward the 2070 target with measured carbon outcomes.
+7. Track CAMS/APMS outcomes — closure rates, recoveries, time-to-resolution.
+8. Be precise on rankings (EPI No.1 2022, No.2 2024).
+9. Prove the human-capital thesis with micro-data — district-level enrolment, Naan
+Mudhalvan placement rates, and female labour-force participation would convert §15–16
+from plausible to proven.
+10. Build resilience into the export model — the 2025 tariff shock shows the need for
+
+market diversification and value-chain upgrading.
+
+23. Data Caveats & Methodological Notes
+Macro claims externally verified (Economic Survey 2025-26, RBI, NITI Aayog, TN
+Industries Dept, PRS); the out-of-order departmental note was re-sequenced and deduplicated.
+Poverty (4.76%→2.20%) is 2015-16 to 2019-21 — mostly pre-tenure; not overattributed.
+EPI: No. 1 (2022), No. 2 behind Maharashtra (EPI 2024, released Jan 2026).
+Investment (₹12.16 lakh cr; GIM 2024 ₹6.64 lakh cr) are committed MoUs,
+corroborated by the Industries Department; track execution (~80%)/conversion
+(~73.5%).
+Patherya GSDP-wealth figures — independent nominal-dollar estimate; directional
+only.
+District, industrial-ecosystem, inflection-point, international and historical
+chapters are interpretive; firm/sector specifics are illustrative (confirm with Industries
+Department); the East Asia comparison is an analogy of logic, not equivalence.
+The 1967–2026 phase framing is an interpretive lens; phase boundaries are
+approximate, and developments overlap across phases.
+Departmental-note inconsistencies: Family Security Fund ₹125 cr (sidebar) vs ₹121 cr
+(body); some treasury-building costs mis-transcribed (likely crore); medical cover read
+as ₹5/10/20 lakh; TNIDB 2030 figure corrupted in extraction.
+Currency in ₹ crore/lakh unless US$ stated. Verify headline numbers against original
+budget documents before external citation.
+
+Compiled for policy review. Accompanying graphic: TN_Model_Causal_Chain.svg (visualises
+§3). This edition adds the human-capital engine (Part IV) and the historical evolution of the
+Dravidian Model (Part V) to make the document intellectually distinctive, not merely
+comprehensive.
+
+

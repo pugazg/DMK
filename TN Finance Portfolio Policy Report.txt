@@ -1,0 +1,583 @@
+Tamil Nadu Finance Portfolio — Reform,
+Modernisation & Fiscal Performance
+A Consolidated Report for Policy Makers · FY 2025–26
+Portfolio: Finance, Environment & Climate Change (Hon’ble Minister Thiru. Thangam
+Thennarasu) Coverage period: May 2021 to the current financial year (five-year tenure
+review) Prepared from: (i) the departmental policy/achievements note for the Finance
+portfolio and its allied directorates and corporations; (ii) RBI State Finances: A Study of
+Budgets (Table A.2, own-revenue share); and (iii) an independent analytical column on state
+GSDP wealth creation (Mudar Patherya).
+Note on sourcing: The departmental text was supplied as an out-of-order (jumbled)
+extraction. It has been re-sequenced and grouped by department below. Figures are
+reproduced as given in the source; where the source contained internal inconsistencies
+or obvious transcription errors, these are flagged in Section 14 — Data Caveats.
+
+1. Executive Summary
+Over the review period the Finance portfolio has pursued four reinforcing goals: fiscal selfreliance, digital administration, social security for the government workforce, and
+climate-aligned infrastructure financing.
+Strong own-revenue position. Tamil Nadu finances a large share of its expenditure
+from its own revenue — rising from roughly 69% of total revenue receipts in 2015-16 to
+75.3% (2025-26 BE), against an all-states average of only 58.2%. The State sits firmly
+in the top tier of fiscally self-reliant states.
+Digital backbone. The Integrated Financial and Human Resource Management
+System (IFHRMS 2.0 / “Kaniniyam”) now drives salary, pension, scheme transfers and
+revenue receipts end-to-end, integrated with RBI’s e-Kuber and with major revenue
+departments.
+Workforce social security at scale. Medical-insurance cover for ~9.2 lakh employees
+and ~7.4 lakh pensioners, a refreshed Pensioners’ Family Security Fund, and a new
+bank-partnership package providing accident, life, education and marriage benefits.
+Audit transformation. Creation of a unified Chief Auditor office and rollout of the
+
+Comprehensive Audit Management System (CAMS) and Audit Para Management
+System (APMS).
+Catalytic infrastructure finance. Through TNIFMC, the State has mobilised ≈₹1,363
+crore across a Shelter Fund, an Emerging-Sector Seed Fund and a Green Climate Fund,
+alongside a large PPP project pipeline under TNIDB and externally aided urban
+programmes.
+Heritage and climate as flagship agendas. Major archaeological investment (Keeladi,
+Gangaikonda Cholapuram, Mayiladumparai’s Iron-Age dating) and a wide
+climate/pollution-control programme (Meendum Manjappai, district climate missions,
+measurable PM10 reductions).
+
+2. Macro-Fiscal Context
+Two external exhibits frame why the institutional reforms below matter.
+
+2.1 Own-Revenue Self-Reliance (RBI State Finances — Table A.2)
+Share of own revenue in total revenue receipts (%) — a measure of how far a state funds
+itself rather than relying on central transfers.
+Year
+
+Tamil Nadu
+
+Karnataka
+
+Maharashtra
+
+Telangana
+
+All States
+
+2015-16
+
+69.29
+
+68.09
+
+75.68
+
+71.44
+
+54.60
+
+2019-20
+
+68.96
+
+62.72
+
+71.77
+
+73.10
+
+55.61
+
+2020-21
+
+66.97
+
+66.97
+
+66.88
+
+72.09
+
+52.10
+
+2021-22
+
+65.05
+
+83.00
+
+72.07
+
+78.55
+
+53.31
+
+2022-23
+
+68.63
+
+68.80
+
+72.54
+
+79.39
+
+55.93
+
+2023-24
+
+73.01
+
+75.69
+
+75.06
+
+80.11
+
+57.82
+
+2024-25 (RE)
+
+75.15
+
+75.59
+
+57.94
+
+76.80
+
+56.88
+
+2025-26 (BE)
+
+75.31
+
+76.79
+
+74.98
+
+77.07
+
+58.17
+
+Reading for policy makers: Tamil Nadu’s own-revenue share dipped during the pandemic
+(to ~65–67%) and has since recovered strongly to ~75%, consistently ~17 percentage
+points above the all-states average. This high self-reliance is the fiscal foundation that
+
+the treasury, GST/commercial-tax integration and e-receipt reforms (Section 4) are
+designed to protect and deepen.
+
+2.2 GSDP Wealth Creation (independent analysis)
+An independent analytical column (Mudar Patherya, Trisys Communications) appraised chief
+ministers as “investment portfolio managers” using a restricted nominal-dollar GSDP
+dataset (2011-12 to 2024-25). On that basis Tamil Nadu’s economy expanded from about
+$241 billion (2020-21) to roughly $369 billion (2024-25) — estimated wealth creation of
+≈$128 billion, averaging ≈$32 billion a year — which the author characterises as
+outperformance relative to several peers. The column also singles out Tamil Nadu (with
+Karnataka) for industrial depth, export sophistication and formal-sector strength.
+This is a journalistic/analytical assessment, not official data. The author explicitly
+cautions that the figures are nominal-dollar, indicative rather than precise, drawn from a
+restricted dataset, and influenced by inherited momentum and external factors. It is
+included here only as directional context.
+
+3. Treasury & Accounts Department
+3.1 Mandate and Scale
+Among the oldest functional arms of government, reorganised as a separate department in
+1962 under Finance. It operates through 6 zonal Joint-Director offices, 6 Pay & Accounts
+Offices, 3 Sub-Pay & Accounts Offices, 38 District Treasuries, 1 Pension Pay Office, 1
+Stamp-supervision office and 243 Sub-Treasuries.
+Core functions include: handling all government revenue and expenditure; salary disbursal
+to 9.2 lakh+ employees; pension to 7.4 lakh+ pensioners; releasing scheme funds;
+monthly accounts to the State AG; stamp-paper sales; and administering the new medicalinsurance schemes.
+
+3.2 IFHRMS 2.0 (“Kaniniyam”) — the Digital Backbone
+A unified finance-plus-HR platform implemented statewide (first piloted in Karur, January
+2020), now covering all district treasuries and pay-accounts offices. Key features:
+Salary and all bill payments routed through IFHRMS and credited via RBI e-Kuber
+directly to beneficiary bank accounts.
+e-Challan / e-Receipt facility enabling 24×7 online payment of government dues; four
+aggregator banks (SBI, Indian Bank, IOB, Canara) authorised, with revenue swept into
+
+the State’s RBI account; integrated with Commercial Taxes and Prohibition & Excise.
+RBI NEFT/RTGS live since 24.04.2023 for instant receipt of revenue.
+Kaniniyam mobile app (launched 27.02.2024) for leave, advances, pension proposals,
+CPS balances, deposits, income-tax regime selection, online life-certificate (Aadhaar
+face authentication) and treasury transfer.
+Modules: OPPAS (electronic pension/gratuity/GPF settlement), DAAS (digital
+auditing/accounting; paperless e-Vouchers, AG exemption from 01.02.2025), automatic
+income-tax computation, CPS final settlement, NPS contributions to NSDL, and
+duplicate-beneficiary detection (CMUPT, OAP, SSN-IG) to prevent fraudulent/double
+payments.
+Welfare disbursals routed through the system include 14 lakh Old-Age Pension
+beneficiaries, 8 lakh Muthulakshmi scheme beneficiaries, and Moovalur Ramamirtham
+(girls’ education) transfers.
+Ongoing integrations: Transport and Registration departments, TANGEDCO (piloted from
+01.01.2025 in Erode; Ranipet, Theni, Mayiladuthurai from 01.02.2025; all districts from
+01.04.2025), BSNL bill payments, income-tax e-filing (24Q/24G/26Q), and a Global
+Beneficiary Master with large-batch (up to 10 lakh) disbursal capability.
+
+3.3 Pensioners’ Family Security Fund
+Scheme operative since 1997; current lump-sum ₹50,000 to the nominee/eligible family on
+a pensioner’s death. To clear a COVID-era backlog (May 2021–Jan 2024), the State
+advanced ₹121 crore from government account; 25,000 pending claims were settled and
+credited directly, benefiting 25,000 families. (A sidebar in the source cites ₹125 crore — see
+Section 14.)
+
+3.4 New Medical Insurance Schemes (2021 & 2022)
+Implemented through United India Insurance Co. Ltd.
+Employees (New Medical Insurance Scheme 2021):
+Cover of ₹5 lakh (2021–2025); monthly deduction ₹300 (₹295 premium + ₹5 corpus).
+Extended to 30.06.2026.
+Special diseases ceiling raised to ₹10 lakh, with a further ₹10 lakh from corpus — total
+up to ₹20 lakh.
+203 treatments/surgical procedures; 1,497 hospitals + 16 government radiationtherapy centres; non-network emergency treatment reimbursed at 75%; dependent
+sons/daughters covered without age limit (from 30.12.2021); COVID-19 added
+
+(14.02.2022).
+Outcome: 3,33,675 beneficiaries, ₹1,706.19 crore in treatment availed.
+Pensioners (Scheme 2022, 01.07.2022–30.10.2025):
+Comparable structure; 1,490 hospitals networked.
+Outcome: 3,37,338 beneficiaries, ₹1,447.91 crore.
+A dedicated medical monitoring team (8 posts) created to oversee insurer
+performance; COVID corpus funds of ₹87.10 crore (network) and ₹17.47 crore (nonnetwork) disbursed.
+
+3.5 Pension-Process Simplification
+Year-round interview facility for pensioners (since 01.07.2023) — life certificate
+submitted in the month of retirement/commencement, reducing hardship.
+Automatic conversion of service pension to family pension on the pensioner’s death,
+with spouse details pre-loaded in IFHRMS — no fresh paperwork required.
+
+3.6 State Government Employee Account (Bank MoU, 19.05.2025)
+MoU with seven banks (SBI, IOB, Indian Bank, Canara, Axis, Bank of Baroda, Union Bank)
+for free value-added benefits on salary accounts:
+Personal-accident cover of ₹1 crore (death/permanent disability);
+Up to ₹10 lakh for higher education and ₹5 lakh–₹10 lakh for children’s marriage of
+deceased employees;
+₹10 lakh life cover for natural death in service; concessional loan rates.
+To date: ₹20.65 crore paid to heirs of 46 deceased employees (18 accidental — ₹15.80
+crore; 28 natural — ₹5.28 crore).
+
+3.7 Buildings & Codification
+New own-buildings for several District and Sub-Treasuries inaugurated (notably on
+25.10.2021 and 26.08.2022); fresh sub-treasury buildings under construction (e.g.,
+Arani ₹1.26 crore, Thottiyam ₹1.19 crore). (Several building cost figures in the source
+appear mis-transcribed — see Section 14.)
+The integrated Finance complex named “Professor K. Anbazhagan Maaligai”
+(19.12.2021).
+Rewriting of the TN Treasury Code, manuals and the TN Financial Code Vols. I & II
+
+entrusted to ICAI-ARF (financial sanction ₹57.82 lakh); draft/initial reports under
+government approval.
+TN Public Finance Management System (TNPFMS): an end-to-end
+revenue/expenditure-monitoring platform; 99 schemes across 40 departments
+onboarded, with last-mile beneficiary tracking.
+
+3.8 Recruitment & Capacity Building
+Direct-recruit Accounts Officers filled in tranches via TNPSC (16 + 5 + 11 selections; SC
+carry-forward vacancies honoured).
+Refresher/need-based training delivered with ICAI and IIT-Madras; allocations of ₹30
+lakh (2023-24), ₹50 lakh (current year), ₹16.19 lakh + ₹70.72 lakh (senior officers), and
+₹1.19 crore (new recruits/IFHRMS training); 213 senior officers and 645 direct recruits
+trained, among others.
+
+4. Audit Reforms
+4.1 Unified Chief Auditor
+To bring all audit wings under Finance and standardise internal and statutory audit, a Chief
+Auditor (Thalaimai Thanikkai Iyakkunar) office was created — covering Local Fund, Cooperative, Milk Co-operative, State Government and HR&CE audits.
+
+4.2 Digital Audit Platforms
+CAMS (Comprehensive Audit Management System): live from 15.04.2025, digitising
+audit from initiation to report and follow-up; Q1–Q2 of 2025-26 completed on CAMS, Q3
+under way — improving transparency for audited entities.
+APMS (Audit Para Management System): live from 17.11.2025 to track resolution of
+audit objections.
+IDEA software for data-analytics audit; 100% e-Office in the State Government Audit
+wing.
+
+4.3 Objection Resolution & Performance Audit
+Objections cleared: 81,354 non-monetary paras and 2,049 monetary paras
+(₹2,883.22 lakh); high-level committees at district/department/board levels.
+Performance audit introduced (2023) for charitable institutions — Annadhanam,
+
+temple-tank upkeep, asset and crowd/sanitation management — with Template Audit
+for ~18,000 small institutions.
+Audit fees of ₹528.41 crore collected over four years; a Code of Ethics issued to all
+auditors; reports now approved “one step below” (zonal heads) to cut delays.
+
+4.4 Recruitment & Milk Co-operative Audit
+918 Junior Co-operative Auditors + 8 Assistant Directors recruited via TNPSC
+(2024).
+Milk co-operatives: 53,280 primary societies audited (a record); Aavin federation
+and district unions audited largely up to date (2020-21 to 2024-25 progressively
+certified).
+
+5. Small Savings Department
+Collections rose sharply since 07.05.2021, led by Post Office Savings, Monthly Income
+Scheme, Recurring Deposit and Senior Citizens’ Savings Scheme.
+Agent incentives: 3,141 beneficiaries, ₹41.60 lakh (MPKBY/SAS agents).
+World Thrift Day (30 Oct): state/district essay, poetry and speech contests — 4,851
+beneficiaries, ₹18.10 lakh.
+Awareness street plays: 1,250 plays, ₹10 lakh; government exhibitions, ₹7.19 lakh;
+further media/serial-drama campaigns planned.
+
+6. Relief & Compensation
+Disbursals routed through relief mechanisms (incl. the Chief Minister’s Public Relief Fund)
+include:
+350 fishing boats seized/damaged by the Sri Lankan navy — ₹19.60 crore to owners;
+Lightning-killed cattle — ₹63.81 lakh;
+Madrasi Camp, Delhi (eviction) — 370 Tamil families, ₹50 lakh;
+Karur (Velayuthampalayam) stampede — 149 affected persons/families, ₹11 lakh;
+CM Public Relief Fund (per source sidebar) — ₹133.81 crore, benefiting 2,698 families.
+
+7. Infrastructure Financing & Development
+7.1 TNIFMC — Catalytic Funds
+The SEBI-regulated Tamil Nadu Infrastructure Fund Management Corporation manages
+three funds and has mobilised ≈₹1,363 crore:
+
+Fund
+
+Capital
+
+Approved
+
+mobilised
+
+additional
+
+Focus
+
+TN Shelter Fund
+
+₹658
+
+(TNSF)
+
+crore
+
+TN Emerging Sector
+
+₹105
+
+₹200
+
+Deep-tech, biotech, agri-tech, med-
+
+Seed Fund (TNESSF)
+
+crore
+
+crore
+
+device, plastics-park startups
+
+TN Green Climate
+
+₹100
+
+₹300
+
+Decarbonisation, e-mobility, climate
+
+Fund (TNGCF)
+
+crore
+
+crore
+
+infrastructure
+
+—
+
+Affordable housing, working-women
+& elderly hostels
+
+Thozhi working-women’s hostels (TNSF): Phase 1 of 17 hostels / 1,800 beds opened
+(2023); 27 locations / 2,600 beds in the pipeline.
+TNESSF: 13 startups, ₹30.1 crore committed; targeted impact includes 1,500+ EVs,
+carbon/material-use reduction, 35% women employees and ~60,000 jobs.
+TNGCF: SEBI nod 03.08.2023; first phase ₹110 crore across three investments; target
+2.5 million MT carbon reduction, contributing to the State’s net-zero-by-2070 goal.
+
+7.2 TNIDB & the PPP Pipeline
+The TN Infrastructure Development Board (with NITI Aayog support) ran a 5-day capacity
+programme and is building a dedicated PMU toward the State’s 2030 economic-scale
+target. A large slate of PPP/HAM/DBFOT projects has been approved or identified, spanning:
+Water: desalination at Tuticorin (60 MLD), Koodankayur (45 MLD); smart water meters
+(9.5 lakh, HAM) in Chennai; Madurai O&M;
+Energy: 500/1000 MW battery storage, pumped-hydro (Velliyamalai, Aliyar), rooftopsolar (RESCO) across government offices, wind-solar hybridisation;
+Mobility: electric low-floor & double-decker buses for MTC, ECR elevated corridor
+(Thiruvanmiyur–Uthandi), bus-stand redevelopment;
+Urban services & industry: integrated waste/biomedical processing, SIPCOT and
+TAHCO industrial parks, light-and-sound at tourist sites, EV parking and advertising-
+
+asset monetisation.
+
+7.3 Externally Aided Projects (EAP-PIU)
+Chennai City Partnership: Sustainable Urban Services Program — total outlay
+US$701 million, with World Bank and AIIB contributing US$150 million each; TNIDB
+is the monitoring agency.
+19 disbursement-linked indicators; ~US$141.37 million in targets achieved, with
+central releases to the State and further proposals in train.
+
+8. Archaeology & Heritage
+₹16.93 crore conservation of Thanjavur, the Danish Fort/Tharangambadi and the
+Madurai Thirumalai Nayakkar Palace.
+Keeladi & surrounds: Agaram and Kondagai declared protected sites; a world-class
+museum (₹3.8 crore, 34 new posts); the Porunai Museum, Tirunelveli (₹58.69
+crore).
+Scientific milestones: Mayiladumparai iron artefacts dated to ~4,200 years (c. 2172
+BCE), pushing back India’s Iron Age; Gangaikonda Cholapuram excavations (palacemound, fort wall) revealing Chola maritime-trade links; Pallavaram identified as a
+prehistoric-tool site.
+20,000+ inscriptions copied and documented; 3D scanners procured (₹60 lakh);
+MoUs with foreign universities for international scientific dating.
+Four new district museums announced — Tirunelveli, Ramanathapuram, Tenkasi,
+Kanyakumari; PG diplomas in epigraphy/heritage management launched; student
+stipend raised ₹4,000 → ₹5,000.
+2025-26 allocation: ₹25 crore.
+
+9. Environment & Climate Change
+9.1 Climate Governance
+TN Climate Change Policy Committee of experts established; climate summits and
+district-level awareness workshops held.
+District Climate Change Missions with the District Collector as Project Director and
+
+the District Forest Officer as Climate Officer.
+Green Fellows (“Pasumai Thozhargal”): 1,284+ campaigns reaching ~36 lakh people;
+297 local bodies selected under the Green Local Bodies programme (solar, rainwater
+harvesting, composting, waste management).
+
+9.2 Single-Use Plastic / Meendum Manjappai
+15 lakh+ cloth bags distributed; 200+ automatic cloth-bag (MVM) machines; 2.99
+lakh awareness events.
+21 films broadcast via educational TV to 60,000 schools; prizes (₹10/5/3 lakh) for
+model villages, colleges and businesses; a directory of 515 alternative-product makers
+published online.
+357 factories under the Green Rating Scheme; 5 certified; 2,000 green workers trained.
+
+9.3 TN Pollution Control Board (TNPCB)
+New monitoring offices at Cuddalore and Chengalpattu + 7 new district environmentalengineer offices; 12 flying squads.
+Recruitment: 2021-22 — 76 AEs, 49 environmental scientists, 86 ministerial staff;
+2025-26 — 92 AEs, 7 environmental scientists, 150 ministerial staff.
+Ease of doing business: consolidated CTO/RCO validity of 5 years (Red), 10 years
+(Orange), 14 years (Green).
+Monitoring infrastructure: 55 Continuous Ambient Air Quality stations; an Integrated
+Environmental Monitoring Station (IEMS); 8 Real-Time Water Quality stations; 60 lowcost noise sensors (with IIT-M); NABL accreditation for upgraded labs; new labs at
+Oragadam and Nagapattinam.
+Outcomes — NCAP (2021–2025) PM10 reduction: Thoothukudi −45%, Trichy −18%,
+Madurai −18%, Chennai −12%.
+TN Green Champion Awards: 100 individuals/organisations, ₹1 lakh each, annually.
+
+10. Cross-Cutting Themes
+1. Digital-first administration — IFHRMS 2.0, CAMS/APMS, TNPFMS, e-Challan/e-Receipt
+and the Kaniniyam app collectively shift the portfolio toward real-time, paperless,
+beneficiary-direct operations.
+
+2. Fiscal self-reliance — revenue-department integration and faster receipt mechanisms
+reinforce TN’s already-high own-revenue share (Section 2.1).
+3. Workforce social security — medical insurance, family security fund, and the bankMoU package form a layered safety net for employees and pensioners.
+4. Transparency & accountability — unified audit, ethics code, decentralised report
+approval and digital objection-tracking.
+5. Climate-aligned growth — green funds, district climate missions and pollution
+monitoring tie infrastructure financing to the 2070 net-zero goal.
+6. Heritage as soft power & local economy — Keeladi/Gangaikonda Cholapuram
+investments combine scientific credibility with tourism-led local livelihoods.
+
+11. Consolidated Financial Snapshot
+Item
+
+Key figure
+
+Employees salaried via IFHRMS
+
+9.2 lakh+
+
+Pensioners served
+
+7.4 lakh+
+
+Employee medical insurance availed
+
+₹1,706.19 cr (3,33,675 beneficiaries)
+
+Pensioner medical insurance availed
+
+₹1,447.91 cr (3,37,338 beneficiaries)
+
+Pensioners’ Family Security Fund
+advance
+
+₹121 cr (25,000 claims)
+
+Employee Account benefits paid
+
+₹20.65 cr (46 families)
+
+Audit fees collected (4 yrs)
+
+₹528.41 cr
+
+Audit paras cleared
+
+81,354 non-monetary + 2,049 monetary (₹2,883.22
+lakh)
+
+TNIFMC capital mobilised
+
+≈₹1,363 cr
+
+Chennai City Partnership (EAP)
+
+US$701 m (WB + AIIB US$150 m each)
+
+Archaeology 2025-26 allocation
+
+₹25 cr
+
+Relief — fishing boats
+
+₹19.60 cr (350 boats)
+
+12. Observations & Recommendations for Policy Makers
+1. Lock in the own-revenue gains. The recovery to ~75% own-revenue share is
+impressive but partly cyclical. Completing revenue-department integrations (Transport,
+Registration, TANGEDCO, GST data) into IFHRMS, and publishing a quarterly receipts
+dashboard, would make the gain structural and auditable.
+2. Pre-fund the social-security schemes. The Family Security Fund needed a ₹121 crore
+bailout because subscriptions did not cover claims. An actuarial review and a defined
+corpus-replenishment rule would prevent recurrence; the same discipline should be
+applied to the medical-insurance corpus.
+3. Track CAMS/APMS outcomes, not just rollout. Now that the platforms are live, publish
+objection-closure rates, recovery amounts and time-to-resolution by department to
+convert digitisation into demonstrable accountability.
+4. Strengthen the PPP pipeline’s bankability. The TNIDB list is broad; policy makers
+should prioritise by financial close achieved and risk allocation, and report the realised
+PPP investment (not just approvals) to maintain investor confidence.
+5. Mainstream the climate funds. TNGCF and TNESSF are still early-stage relative to
+TNSF. Clear deal pipelines, co-investment terms and measured carbon outcomes would
+help scale them toward the 2070 net-zero target.
+6. Resolve data-quality gaps before external publication (see Section 14) — a single
+source of truth for headline figures would strengthen credibility with legislators, lenders
+and rating agencies.
+
+13. Data Caveats & Methodological Notes
+Out-of-order source. The departmental text was a jumbled extraction; sections have
+been re-sequenced by department. Some passages were duplicated across pages
+(employee vs. pensioner medical-insurance text in particular) and have been deduplicated.
+Internal inconsistencies in the source:
+Family Security Fund advance cited as ₹125 crore (sidebar) and ₹121 crore (body)
+— the body figure is used.
+Several treasury-building costs appear transcribed in “lakh” where “crore” is
+almost certainly intended (e.g., a district treasury at “₹3.12 lakh”); only clearly-
+
+stated crore figures have been reproduced, and dubious values are omitted.
+Medical-insurance coverage/ceiling values appear in the source as “₹5,000,000 /
+₹10,000,000” and are read here as ₹5 lakh / ₹10 lakh / ₹20 lakh per standard
+scheme parameters.
+The TNIDB “2030 economy target” figure in the extraction is corrupted (“5 million
+dollar”); it has been described qualitatively rather than quoted, as it does not match
+the State’s known trillion-dollar-economy aspiration.
+Hospital counts differ slightly between the employee scheme (1,497) and pensioner
+scheme (1,490) sections; both are reproduced as stated.
+GSDP figures (Section 2.2) are from an independent opinion column using nominaldollar, restricted-dataset methodology with the author’s own disclaimers; treat as
+directional, not official.
+Table A.2 values are RBI estimates; 2024-25 are Revised Estimates and 2025-26 are
+Budget Estimates.
+
+Report compiled for internal policy review. All monetary figures are in Indian rupees
+(crore/lakh) unless a US-dollar figure is explicitly stated. Verify headline numbers against
+the original departmental note and the State Budget documents before external citation.
+
+
