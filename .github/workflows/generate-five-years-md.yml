@@ -34,6 +34,21 @@ jobs:
             cat "$source_file" >> "$tmp_file"
           done < SOURCE_FILES_FIVE_YEARS.txt
           mv "$tmp_file" Five_years.txt
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path('Five_years.txt')
+          normalized = []
+          marker = re.compile(
+              r'^\s*(?:###\s*)?\*\*(DMK 5 YEARS ACHIEVEMENTS(?:\s+\d+)?\.(?:jpe?g))\*\*\s*$',
+              re.IGNORECASE,
+          )
+          for line in path.read_text(encoding='utf-8').splitlines():
+              match = marker.match(line)
+              normalized.append(match.group(1) if match else line)
+          path.write_text('\n'.join(normalized) + '\n', encoding='utf-8')
+          PY
 
       - name: Generate Markdown files
         run: python3 scripts/split_five_years.py
