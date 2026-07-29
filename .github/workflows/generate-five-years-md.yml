@@ -1,5 +1,6 @@
 name: Generate Five Years Markdown
 
+# This branch triggers generation of the indexed Markdown output.
 on:
   pull_request:
     branches:
