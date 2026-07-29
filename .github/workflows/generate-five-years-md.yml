@@ -26,28 +26,43 @@ jobs:
       - name: Assemble complete publication source
         run: |
           test -s SOURCE_FILES_FIVE_YEARS.txt
-          tmp_file="$(mktemp)"
-          while IFS= read -r source_file; do
-            test -n "$source_file" || continue
-            test -f "$source_file"
-            printf '\n\n' >> "$tmp_file"
-            cat "$source_file" >> "$tmp_file"
-          done < SOURCE_FILES_FIVE_YEARS.txt
-          mv "$tmp_file" Five_years.txt
           python3 - <<'PY'
           from pathlib import Path
           import re
 
-          path = Path('Five_years.txt')
-          normalized = []
-          marker = re.compile(
+          absolute_marker = re.compile(
               r'^\s*(?:###\s*)?\*\*(DMK 5 YEARS ACHIEVEMENTS(?:\s+\d+)?\.(?:jpe?g))\*\*\s*$',
               re.IGNORECASE,
           )
-          for line in path.read_text(encoding='utf-8').splitlines():
-              match = marker.match(line)
-              normalized.append(match.group(1) if match else line)
-          path.write_text('\n'.join(normalized) + '\n', encoding='utf-8')
+          generic_marker = re.compile(
+              r'^\s*(?:###\s*)?\*\*image_(\d+)\.(?:png|jpe?g)(?:\s*\([^)]*\))?\*\*\s*$',
+              re.IGNORECASE,
+          )
+
+          output = []
+          for record in Path('SOURCE_FILES_FIVE_YEARS.txt').read_text(encoding='utf-8').splitlines():
+              record = record.strip()
+              if not record:
+                  continue
+              filename, start_text = record.rsplit('|', 1)
+              start_page = int(start_text)
+              source = Path(filename)
+              if not source.is_file():
+                  raise FileNotFoundError(filename)
+              output.extend(['', ''])
+              for line in source.read_text(encoding='utf-8').splitlines():
+                  absolute = absolute_marker.match(line)
+                  if absolute:
+                      output.append(absolute.group(1))
+                      continue
+                  generic = generic_marker.match(line)
+                  if generic:
+                      page = start_page + int(generic.group(1)) - 1
+                      output.append(f'DMK 5 YEARS ACHIEVEMENTS {page}.jpg')
+                      continue
+                  output.append(line)
+
+          Path('Five_years.txt').write_text('\n'.join(output) + '\n', encoding='utf-8')
           PY
 
       - name: Generate Markdown files
