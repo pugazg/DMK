@@ -70,10 +70,10 @@ jobs:
 
       - name: Validate generated files
         run: |
-          test "$(find five-years -type f -name '*.md' | wc -l)" -eq 46
+          test "$(find five-years -type f -name '*.md' | wc -l)" -eq 48
           test -f five-years/README.md
           test "$(find five-years/01-ஆளுமைகளின்-பார்வையில் -type f -name '*.md' | wc -l)" -eq 14
-          test "$(find five-years/02-துறை-வாரியாக-சாதனைகள் -type f -name '*.md' | wc -l)" -eq 31
+          test "$(find five-years/02-துறை-வாரியாக-சாதனைகள் -type f -name '*.md' | wc -l)" -eq 33
           git diff --check
 
       - name: Commit generated files
