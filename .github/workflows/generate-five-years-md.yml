@@ -75,10 +75,10 @@ jobs:
 
           root = Path('five-years')
           files = sorted(root.rglob('*.md'))
-          assert len(files) == 48, len(files)
+          assert len(files) == 49, len(files)
           assert (root / 'README.md').is_file()
           sections = [p for p in files if p.name != 'README.md']
-          assert len(sections) == 47, len(sections)
+          assert len(sections) == 48, len(sections)
           feature = 0
           department = 0
           for path in sections:
@@ -90,7 +90,7 @@ jobs:
               else:
                   raise AssertionError(f'Unknown category: {path}')
           assert feature == 14, feature
-          assert department == 33, department
+          assert department == 34, department
           print(f'Validated {len(sections)} sections: {feature} feature + {department} department')
           PY
 
