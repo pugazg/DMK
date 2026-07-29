@@ -96,7 +96,7 @@ jobs:
 
       - name: Commit generated files
         run: |
-          if git diff --quiet -- five-years; then
+          if test -z "$(git status --porcelain -- five-years)"; then
             echo "Generated files are already current."
             exit 0
           fi
