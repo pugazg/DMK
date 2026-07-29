@@ -70,10 +70,29 @@ jobs:
 
       - name: Validate generated files
         run: |
-          test "$(find five-years -type f -name '*.md' | wc -l)" -eq 48
-          test -f five-years/README.md
-          test "$(find five-years/01-ஆளுமைகளின்-பார்வையில் -type f -name '*.md' | wc -l)" -eq 14
-          test "$(find five-years/02-துறை-வாரியாக-சாதனைகள் -type f -name '*.md' | wc -l)" -eq 33
+          python3 - <<'PY'
+          from pathlib import Path
+
+          root = Path('five-years')
+          files = sorted(root.rglob('*.md'))
+          assert len(files) == 48, len(files)
+          assert (root / 'README.md').is_file()
+          sections = [p for p in files if p.name != 'README.md']
+          assert len(sections) == 47, len(sections)
+          feature = 0
+          department = 0
+          for path in sections:
+              text = path.read_text(encoding='utf-8')
+              if 'category: "ஆளுமைகளின் பார்வையில்"' in text:
+                  feature += 1
+              elif 'category: "துறை வாரியாக சாதனைகள்"' in text:
+                  department += 1
+              else:
+                  raise AssertionError(f'Unknown category: {path}')
+          assert feature == 14, feature
+          assert department == 33, department
+          print(f'Validated {len(sections)} sections: {feature} feature + {department} department')
+          PY
 
       - name: Commit generated files
         run: |
