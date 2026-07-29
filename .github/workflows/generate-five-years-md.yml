@@ -1,12 +1,12 @@
 name: Generate Five Years Markdown
 
-# This branch triggers generation of the indexed Markdown output.
 on:
   pull_request:
     branches:
       - main
     paths:
-      - Five_years.txt
+      - '*.txt'
+      - SOURCE_FILES_FIVE_YEARS.txt
       - scripts/split_five_years.py
       - .github/workflows/generate-five-years-md.yml
   workflow_dispatch:
@@ -23,6 +23,18 @@ jobs:
         with:
           ref: ${{ github.head_ref || github.ref_name }}
 
+      - name: Assemble complete publication source
+        run: |
+          test -s SOURCE_FILES_FIVE_YEARS.txt
+          tmp_file="$(mktemp)"
+          while IFS= read -r source_file; do
+            test -n "$source_file" || continue
+            test -f "$source_file"
+            printf '\n\n' >> "$tmp_file"
+            cat "$source_file" >> "$tmp_file"
+          done < SOURCE_FILES_FIVE_YEARS.txt
+          mv "$tmp_file" Five_years.txt
+
       - name: Generate Markdown files
         run: python3 scripts/split_five_years.py
 
@@ -30,6 +42,8 @@ jobs:
         run: |
           test "$(find five-years -type f -name '*.md' | wc -l)" -eq 46
           test -f five-years/README.md
+          test "$(find five-years/01-ஆளுமைகளின்-பார்வையில் -type f -name '*.md' | wc -l)" -eq 14
+          test "$(find five-years/02-துறை-வாரியாக-சாதனைகள் -type f -name '*.md' | wc -l)" -eq 31
           git diff --check
 
       - name: Commit generated files
