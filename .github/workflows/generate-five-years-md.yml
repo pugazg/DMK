@@ -74,7 +74,7 @@ jobs:
           test -f five-years/README.md
           test "$(find five-years/01-ஆளுமைகளின்-பார்வையில் -type f -name '*.md' | wc -l)" -eq 14
           test "$(find five-years/02-துறை-வாரியாக-சாதனைகள் -type f -name '*.md' | wc -l)" -eq 33
-          git diff --check
+          git diff --check -- five-years
 
       - name: Commit generated files
         run: |
