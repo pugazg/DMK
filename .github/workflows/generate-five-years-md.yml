@@ -1,9 +1,9 @@
 name: Generate Five Years Markdown
 
 on:
-  push:
+  pull_request:
     branches:
-      - agent/split-five-years-index
+      - main
     paths:
       - Five_years.txt
       - scripts/split_five_years.py
@@ -13,18 +13,14 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: generate-five-years-md
-  cancel-in-progress: false
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out branch
+      - name: Check out pull request branch
         uses: actions/checkout@v4
         with:
-          ref: agent/split-five-years-index
+          ref: ${{ github.head_ref || github.ref_name }}
 
       - name: Generate Markdown files
         run: python3 scripts/split_five_years.py
