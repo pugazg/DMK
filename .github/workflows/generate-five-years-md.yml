@@ -5,7 +5,8 @@ on:
     branches:
       - main
     paths:
-      - Five_years.txt
+      - '*.txt'
+      - SOURCE_FILES_FIVE_YEARS.txt
       - scripts/split_five_years.py
       - .github/workflows/generate-five-years-md.yml
   workflow_dispatch:
@@ -22,18 +23,80 @@ jobs:
         with:
           ref: ${{ github.head_ref || github.ref_name }}
 
+      - name: Assemble complete publication source
+        run: |
+          test -s SOURCE_FILES_FIVE_YEARS.txt
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          absolute_marker = re.compile(
+              r'^\s*(?:###\s*)?\*\*(DMK 5 YEARS ACHIEVEMENTS(?:\s+\d+)?\.(?:jpe?g))\*\*\s*$',
+              re.IGNORECASE,
+          )
+          generic_marker = re.compile(
+              r'^\s*(?:###\s*)?\*\*image_(\d+)\.(?:png|jpe?g)(?:\s*\([^)]*\))?\*\*\s*$',
+              re.IGNORECASE,
+          )
+
+          output = []
+          for record in Path('SOURCE_FILES_FIVE_YEARS.txt').read_text(encoding='utf-8').splitlines():
+              record = record.strip()
+              if not record:
+                  continue
+              filename, start_text = record.rsplit('|', 1)
+              start_page = int(start_text)
+              source = Path(filename)
+              if not source.is_file():
+                  raise FileNotFoundError(filename)
+              output.extend(['', ''])
+              for line in source.read_text(encoding='utf-8').splitlines():
+                  absolute = absolute_marker.match(line)
+                  if absolute:
+                      output.append(absolute.group(1))
+                      continue
+                  generic = generic_marker.match(line)
+                  if generic:
+                      page = start_page + int(generic.group(1)) - 1
+                      output.append(f'DMK 5 YEARS ACHIEVEMENTS {page}.jpg')
+                      continue
+                  output.append(line)
+
+          Path('Five_years.txt').write_text('\n'.join(output) + '\n', encoding='utf-8')
+          PY
+
       - name: Generate Markdown files
         run: python3 scripts/split_five_years.py
 
       - name: Validate generated files
         run: |
-          test "$(find five-years -type f -name '*.md' | wc -l)" -eq 46
-          test -f five-years/README.md
-          git diff --check
+          python3 - <<'PY'
+          from pathlib import Path
+
+          root = Path('five-years')
+          files = sorted(root.rglob('*.md'))
+          assert len(files) == 49, len(files)
+          assert (root / 'README.md').is_file()
+          sections = [p for p in files if p.name != 'README.md']
+          assert len(sections) == 48, len(sections)
+          feature = 0
+          department = 0
+          for path in sections:
+              text = path.read_text(encoding='utf-8')
+              if 'category: "ஆளுமைகளின் பார்வையில்"' in text:
+                  feature += 1
+              elif 'category: "துறை வாரியாக சாதனைகள்"' in text:
+                  department += 1
+              else:
+                  raise AssertionError(f'Unknown category: {path}')
+          assert feature == 14, feature
+          assert department == 34, department
+          print(f'Validated {len(sections)} sections: {feature} feature + {department} department')
+          PY
 
       - name: Commit generated files
         run: |
-          if git diff --quiet -- five-years; then
+          if test -z "$(git status --porcelain -- five-years)"; then
             echo "Generated files are already current."
             exit 0
           fi
